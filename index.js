@@ -38,7 +38,7 @@ let cd = {
 }
 
 let cds = [ cd, cd];
-
+// http://musicbrainz.org/ws/2/release/2af14d71-4333-494a-a981-7701897e3f1c?inc=artists+recordings&fmt=json
 
 app.get('/cds', (req, res) => {
   let title = req.query.title;
