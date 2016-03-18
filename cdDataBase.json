@@ -1,54 +1,9 @@
 [
     {
-        "album": "Offspring", 
-        "artist": "Yeshe", 
-        "hasCover": false, 
-        "price": 10, 
-        "coverUrl": "NOT FOUND", 
-        "albumId": "540764b9-ea52-413a-8b7e-ac91bd0bbfd8", 
-        "artistId": "7a2cd412-40de-4201-8f4c-e66f5ae8f5ef"
-    }, 
-    {
-        "album": "The Offspring", 
-        "artist": "The Offspring", 
-        "hasCover": true, 
-        "price": 14, 
-        "coverUrl": "http://coverartarchive.org/release/2af14d71-4333-494a-a981-7701897e3f1c/3035143260-500.jpg", 
-        "albumId": "2af14d71-4333-494a-a981-7701897e3f1c", 
-        "artistId": "23a03e33-a603-404e-bcbf-2c00159d7067"
-    }, 
-    {
-        "album": "The Offspring", 
-        "artist": "The Offspring", 
-        "hasCover": true, 
-        "price": 12, 
-        "coverUrl": "http://coverartarchive.org/release/46d0525d-5c4b-38ae-af56-a518046d7cb7/7956002344-500.jpg", 
-        "albumId": "46d0525d-5c4b-38ae-af56-a518046d7cb7", 
-        "artistId": "23a03e33-a603-404e-bcbf-2c00159d7067"
-    }, 
-    {
-        "album": "Offspring Fling", 
-        "artist": "Alec Holowka", 
-        "hasCover": true, 
-        "price": 10, 
-        "coverUrl": "http://coverartarchive.org/release/683029ca-89dd-4533-a77b-c9eece2ffe5a/1104488549-500.jpg", 
-        "albumId": "683029ca-89dd-4533-a77b-c9eece2ffe5a", 
-        "artistId": "da3f85d9-c72d-4732-8458-c559ab3530af"
-    }, 
-    {
-        "album": "Joyce Offspring", 
-        "artist": "Joyce McKinney Experience", 
-        "hasCover": true, 
-        "price": 10, 
-        "coverUrl": "http://coverartarchive.org/release/bbca2f18-e752-458a-970d-4b4f6f2b0190/7226953186-500.jpg", 
-        "albumId": "bbca2f18-e752-458a-970d-4b4f6f2b0190", 
-        "artistId": "473003d6-482b-4833-a271-2d4306b1183a"
-    }, 
-    {
         "album": "Britney", 
         "artist": "Britney Spears", 
         "hasCover": true, 
-        "price": 10, 
+        "price": 12, 
         "coverUrl": "http://coverartarchive.org/release/7ea2150f-7c49-48cd-9d69-b241c010971b/12099419082-500.jpg", 
         "albumId": "7ea2150f-7c49-48cd-9d69-b241c010971b", 
         "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
@@ -75,7 +30,7 @@
         "album": "Britney", 
         "artist": "Britney Spears", 
         "hasCover": false, 
-        "price": 13, 
+        "price": 10, 
         "coverUrl": "NOT FOUND", 
         "albumId": "900437b9-b455-4ac8-be71-7bcc19fc6818", 
         "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
@@ -84,16 +39,340 @@
         "album": "Britney", 
         "artist": "Britney Spears", 
         "hasCover": true, 
-        "price": 12, 
+        "price": 15, 
         "coverUrl": "http://coverartarchive.org/release/e8ab17c1-3dc1-4f52-886c-5e6047504e11/3740669267-500.jpg", 
         "albumId": "e8ab17c1-3dc1-4f52-886c-5e6047504e11", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney", 
+        "artist": "I'm From Barcelona", 
+        "hasCover": true, 
+        "price": 10, 
+        "coverUrl": "http://coverartarchive.org/release/5f9931a3-a7d6-4054-a6e7-45fc57f49a1d/2192452008-500.jpg", 
+        "albumId": "5f9931a3-a7d6-4054-a6e7-45fc57f49a1d", 
+        "artistId": "fa0daf56-e94c-4007-9a00-4d1b05d85f96"
+    }, 
+    {
+        "album": "Britney", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 15, 
+        "coverUrl": "http://coverartarchive.org/release/cd2af83d-8466-3029-89e0-f0713c2c088a/10072912760-500.jpg", 
+        "albumId": "cd2af83d-8466-3029-89e0-f0713c2c088a", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney", 
+        "artist": "Britney Spears", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "94c0956a-d484-4a9b-a6b9-969aa925ee73", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney", 
+        "artist": "Britney Spears", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "9d8fa12c-4ef0-41e7-b5ce-341472dee456", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney 2.0", 
+        "artist": "Glee Cast", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/4c7fe11d-b05e-47b6-8716-a30e8ff3b6f6/2070632374-500.jpg", 
+        "albumId": "4c7fe11d-b05e-47b6-8716-a30e8ff3b6f6", 
+        "artistId": "29542149-a818-4167-aa91-439adc9d61f5"
+    }, 
+    {
+        "album": "Britney Jean", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 12, 
+        "coverUrl": "http://coverartarchive.org/release/3ee75d22-2166-445f-8056-2d3d6ab63133/6430328455-500.jpg", 
+        "albumId": "3ee75d22-2166-445f-8056-2d3d6ab63133", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney Jean", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/71d9055f-e9d6-490d-9c40-1741ac0ad5f1/6510293470-500.jpg", 
+        "albumId": "71d9055f-e9d6-490d-9c40-1741ac0ad5f1", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney Jean", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 14, 
+        "coverUrl": "http://coverartarchive.org/release/0afa8214-af63-46c1-accf-5f001e2dca8f/11362302094-500.jpg", 
+        "albumId": "0afa8214-af63-46c1-accf-5f001e2dca8f", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney Jean", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/4664ee51-69a4-4cd6-884d-8da0b4288047/12101162022-500.jpg", 
+        "albumId": "4664ee51-69a4-4cd6-884d-8da0b4288047", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney Jean", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 12, 
+        "coverUrl": "http://coverartarchive.org/release/ea3fcfa1-5630-4abd-bc18-46f5132cfc6e/6510480367-500.jpg", 
+        "albumId": "ea3fcfa1-5630-4abd-bc18-46f5132cfc6e", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney Jean", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/7d5d3f1e-cfaa-49fb-805a-3ab55d5c6823/12101218750-500.jpg", 
+        "albumId": "7d5d3f1e-cfaa-49fb-805a-3ab55d5c6823", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney Style", 
+        "artist": "Raili's People", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "7c9fbb33-25d5-429c-bb60-8e471cac8c27", 
+        "artistId": "364a9dec-d4c4-4f9f-8b6b-442efe4075c6"
+    }, 
+    {
+        "album": "Britney Jean", 
+        "artist": "Britney Spears", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "491deebe-fa32-459c-8101-c20a55b7a0ee", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "LidRock: Sbarro Britney I", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "cb83340f-111c-4680-a1f8-db9b1385498b", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "The Essential Britney Spears", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 15, 
+        "coverUrl": "http://coverartarchive.org/release/2bf47421-2344-4255-a525-e7d7f54de742/6419560382-500.jpg", 
+        "albumId": "2bf47421-2344-4255-a525-e7d7f54de742", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "The Collection: Britney Spears", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/11e2d7e3-1411-47d5-aa16-28be1a073a5c/6599669332-500.jpg", 
+        "albumId": "11e2d7e3-1411-47d5-aa16-28be1a073a5c", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney & Kevin: Chaotic", 
+        "artist": "Britney Spears", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "f5c55134-ea5a-4a62-aaef-fdc7050d2d80", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney & Kevin: Chaotic", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/c2b124db-35ee-4d33-990d-7f6d515bbbde/12624147618-500.jpg", 
+        "albumId": "c2b124db-35ee-4d33-990d-7f6d515bbbde", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney & Kevin: Chaotic", 
+        "artist": "Britney Spears", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "e39c9e29-a42b-3474-80e4-ecd81a8e3845", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney & Kevin: Chaotic", 
+        "artist": "Britney Spears", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "a1574c06-a91b-4041-a307-db81000ea893", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney: For the Record", 
+        "artist": "Britney Spears", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "d188922f-e21f-46cb-94c8-162ad7ec4396", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney Spears Sex Riot!", 
+        "artist": "The Reptilians", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/d362d62d-b435-47f5-b225-8f9fbb42dfa2/8276552557-500.jpg", 
+        "albumId": "d362d62d-b435-47f5-b225-8f9fbb42dfa2", 
+        "artistId": "a661090c-229b-4b8e-8eac-1a7e4cc019cc"
+    }, 
+    {
+        "album": "Britney Spears Piano Tribute", 
+        "artist": "The Piano Tribute Players", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "adb8c6b8-29a2-4e72-9c69-c505335b50a3", 
+        "artistId": "a645c08f-613f-4ec0-bc8e-dd497fa29e7f"
+    }, 
+    {
+        "album": "LidRock: Britney Spears (disc 2)", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "cfd999cd-00d4-4706-bdab-dd497ef96578", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Britney Spears Got Gang Raped", 
+        "artist": "Anal Cunt-Ilingus", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "b1e54cdd-e674-4522-8e1f-9e6f98de2a37", 
+        "artistId": "5d046025-ee1d-4bef-a3e3-9eb560980167"
+    }, 
+    {
+        "album": "Smells Like Britney / Be Like Hugh", 
+        "artist": "John Farias", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "21ad3303-5929-408e-9279-a8084f85cf00", 
+        "artistId": "f8cf606d-d903-4dcb-a70e-f817109a3521"
+    }, 
+    {
+        "album": "Playlist: The Very Best of Britney Spears", 
+        "artist": "Britney Spears", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "7331845d-55d9-4d89-9b50-a254620afb50", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney Spears + Noise = HOT", 
+        "artist": "Supercomposer", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/5e06bd27-c089-4c1c-950d-f6fcb073f148/1854055561-500.jpg", 
+        "albumId": "5e06bd27-c089-4c1c-950d-f6fcb073f148", 
+        "artistId": "c93d0acd-a584-41d1-be94-78d5a6d16db5"
+    }, 
+    {
+        "album": "Britney Spears Live: The Femme Fatale Tour", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 14, 
+        "coverUrl": "http://coverartarchive.org/release/b705b860-b234-4572-b040-86828590a432/8007948479-500.jpg", 
+        "albumId": "b705b860-b234-4572-b040-86828590a432", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "The World's Greatest Britney Spears Tribute", 
+        "artist": "The School Girl Allstars", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "8e774d62-b8b1-4add-a495-21e4800ad29e", 
+        "artistId": "09c619a8-151b-48a9-81c3-0be45870f108"
+    }, 
+    {
+        "album": "Playlist: The Very Best of Britney Spears", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/cbd4fccb-eb74-4c5b-a1a0-5f9894341e2f/11385583013-500.jpg", 
+        "albumId": "cbd4fccb-eb74-4c5b-a1a0-5f9894341e2f", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Oops! I Did It Again: The Best of Britney Spears", 
+        "artist": "Britney Spears", 
+        "hasCover": true, 
+        "price": 10, 
+        "coverUrl": "http://coverartarchive.org/release/bb15bd09-a5bf-4643-8fec-fabded2fd509/2691376536-500.jpg", 
+        "albumId": "bb15bd09-a5bf-4643-8fec-fabded2fd509", 
+        "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+    }, 
+    {
+        "album": "Britney Spears + Noise = HOT, Volume 1", 
+        "artist": "Supercomposer", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/143fba9e-07a9-489a-bf85-180f4a923650/9090565489-500.jpg", 
+        "albumId": "143fba9e-07a9-489a-bf85-180f4a923650", 
+        "artistId": "c93d0acd-a584-41d1-be94-78d5a6d16db5"
+    }, 
+    {
+        "album": "Britney Spears + Noise = HOT, Volume 2", 
+        "artist": "Supercomposer", 
+        "hasCover": true, 
+        "price": 14, 
+        "coverUrl": "http://coverartarchive.org/release/bb4fbfbb-ba10-4170-b3a0-56ab19947def/9090777901-500.jpg", 
+        "albumId": "bb4fbfbb-ba10-4170-b3a0-56ab19947def", 
+        "artistId": "c93d0acd-a584-41d1-be94-78d5a6d16db5"
+    }, 
+    {
+        "album": "Britney Spears + Noise = HOT, Volume 3", 
+        "artist": "Supercomposer", 
+        "hasCover": true, 
+        "price": 15, 
+        "coverUrl": "http://coverartarchive.org/release/f3a64276-6531-4c02-9348-564eb7b17c64/9090821402-500.jpg", 
+        "albumId": "f3a64276-6531-4c02-9348-564eb7b17c64", 
+        "artistId": "c93d0acd-a584-41d1-be94-78d5a6d16db5"
+    }, 
+    {
+        "album": "Oops! I Did It Again: The Best of Britney Spears", 
+        "artist": "Britney Spears", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "60c65ed6-550e-4338-be76-ceaf44d67e88", 
         "artistId": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
     }, 
     {
         "album": "Baby", 
         "artist": "Ashanti", 
         "hasCover": false, 
-        "price": 15, 
+        "price": 14, 
         "coverUrl": "NOT FOUND", 
         "albumId": "336977c1-1004-49c3-854d-c1dd8f785642", 
         "artistId": "a47ed6d5-480e-428c-8ce9-d7a6a571e857"
@@ -102,7 +381,7 @@
         "album": "Baby", 
         "artist": "Yello", 
         "hasCover": true, 
-        "price": 12, 
+        "price": 10, 
         "coverUrl": "http://coverartarchive.org/release/493dfcf8-bd7b-450b-bb09-ee90e53bd0d9/2971749422-500.jpg", 
         "albumId": "493dfcf8-bd7b-450b-bb09-ee90e53bd0d9", 
         "artistId": "c616aef1-e21f-46f8-864f-b7bad96f41b2"
@@ -111,7 +390,7 @@
         "album": "Baby", 
         "artist": "The Detroit Cobras", 
         "hasCover": false, 
-        "price": 12, 
+        "price": 11, 
         "coverUrl": "NOT FOUND", 
         "albumId": "4f8aefcf-3021-429b-8855-0fbe3cd93ddc", 
         "artistId": "9b8d6e11-05a4-4688-9d96-ad746bfedc41"
@@ -120,7 +399,7 @@
         "album": "Baby", 
         "artist": "Sort Sol", 
         "hasCover": false, 
-        "price": 12, 
+        "price": 14, 
         "coverUrl": "NOT FOUND", 
         "albumId": "e2caeac4-994d-4d55-be53-c9c40377987c", 
         "artistId": "c716b092-c81a-44c0-8e34-36c6f0810936"
@@ -129,10 +408,415 @@
         "album": "B.A.B.Y", 
         "artist": "Evil Superstars", 
         "hasCover": false, 
-        "price": 15, 
+        "price": 12, 
         "coverUrl": "NOT FOUND", 
         "albumId": "c8e96f57-b683-4ece-b4e1-49d89db66237", 
         "artistId": "8d6a16ca-c8d5-4621-86ed-ffafd89d25f1"
+    }, 
+    {
+        "album": "Baby!", 
+        "artist": "Lorentz & Sakarias", 
+        "hasCover": true, 
+        "price": 14, 
+        "coverUrl": "http://coverartarchive.org/release/aa0b0666-dcf1-44f6-b7cb-2f374867d1d8/2385256383-500.jpg", 
+        "albumId": "aa0b0666-dcf1-44f6-b7cb-2f374867d1d8", 
+        "artistId": "5072c392-4a3e-4823-8072-f47957b56eab"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Baby", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/5ddd2d34-02c3-4928-b2a7-dd956db301d4/1056439475-500.jpg", 
+        "albumId": "5ddd2d34-02c3-4928-b2a7-dd956db301d4", 
+        "artistId": "e00aa6a5-6f1e-4225-b2d5-a3b0b7f94bcc"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Carolina Wallin P\u00e9rez", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "5645df10-1dba-4112-8f23-0e22521faeae", 
+        "artistId": "d2d704c5-ce6a-4c67-93f8-1ab635273262"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Yello", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "f9dd7cd0-0c68-48cb-b219-d9397becc73b", 
+        "artistId": "c616aef1-e21f-46f8-864f-b7bad96f41b2"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Walton", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "d0f126aa-e98d-4a0c-9ad4-240cf1fa25fa", 
+        "artistId": "a7da8cff-c335-405f-9dd5-9b18acd315d0"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Benal", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/d2c00975-5ae4-435b-b2a1-e7e350a79de8/5031201796-500.jpg", 
+        "albumId": "d2c00975-5ae4-435b-b2a1-e7e350a79de8", 
+        "artistId": "46fa34da-545b-4c0e-80a2-b7f56ca0f837"
+    }, 
+    {
+        "album": "Baby!", 
+        "artist": "Ligia Piro", 
+        "hasCover": true, 
+        "price": 10, 
+        "coverUrl": "http://coverartarchive.org/release/3d63a541-8647-4c1b-a800-a37f8c886bb8/7448622500-500.jpg", 
+        "albumId": "3d63a541-8647-4c1b-a800-a37f8c886bb8", 
+        "artistId": "1dc55a08-ed05-4544-a969-5195c6e03e72"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Ashanti", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "fe9dd05a-620e-46d4-9d69-a4dc5d8652bf", 
+        "artistId": "a47ed6d5-480e-428c-8ce9-d7a6a571e857"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Ashanti", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "fa81b237-48cd-4dec-860d-8ae88ca6cce3", 
+        "artistId": "a47ed6d5-480e-428c-8ce9-d7a6a571e857"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Tribes", 
+        "hasCover": true, 
+        "price": 10, 
+        "coverUrl": "http://coverartarchive.org/release/d2a7d1ed-f61a-4738-85ea-4a7344687eff/6296001949-500.jpg", 
+        "albumId": "d2a7d1ed-f61a-4738-85ea-4a7344687eff", 
+        "artistId": "002ea9e4-4e04-4e6b-b488-2491916cfbbf"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "White Hinterland", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/69c47e3f-0b07-47b2-807f-32d1fcb0c0eb/6817776888-500.jpg", 
+        "albumId": "69c47e3f-0b07-47b2-807f-32d1fcb0c0eb", 
+        "artistId": "5e4e4d61-1ecc-462b-b6d5-79868054df0f"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Vinz Monk", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "f35c1be8-fe42-49bd-b5ec-5aac79885136", 
+        "artistId": "1b96795e-8439-4a4d-9e87-792131f6f212"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Green River Ordinance", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "96ca4dd3-f896-4bee-8f01-0da02a5dcd03", 
+        "artistId": "fa1d45af-ceeb-445f-afe2-65308eef7780"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Tribes", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "d4e17a43-dfa4-47e1-a45b-3ff1ee893097", 
+        "artistId": "002ea9e4-4e04-4e6b-b488-2491916cfbbf"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Justin Bieber", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/09b73bc6-67b6-4dd4-b86d-b2dc3fbead6c/10800042491-500.jpg", 
+        "albumId": "09b73bc6-67b6-4dd4-b86d-b2dc3fbead6c", 
+        "artistId": "e0140a67-e4d1-4f13-8a01-364355bee46e"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "The Sidetrack", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "034b1ab7-f0a1-4437-b319-8cef398af59a", 
+        "artistId": "01f35c9c-dbfd-4800-8ecb-c86f217f3c51"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Glee Cast", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "d81caf1f-9373-464c-8241-f46f379070d5", 
+        "artistId": "29542149-a818-4167-aa91-439adc9d61f5"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "John Nolan", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "18b54bf7-05d2-4186-8cb9-471d482640f3", 
+        "artistId": "882b6e43-d1dc-46df-9602-073d9919a550"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Lloyd Cole", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "91045cc0-02fb-42ac-b6f5-7a8310fd51ee", 
+        "artistId": "09cbb94a-c594-4674-8255-87112032a751"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Clorox Girls", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "ee2516c2-9cfc-4f95-88b7-34a4235d3091", 
+        "artistId": "ebd3cc5d-a3c2-4058-965a-5c15e80528b2"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Glee Cast", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "c7c2b468-28ab-3abd-8d4c-f3803b74683c", 
+        "artistId": "29542149-a818-4167-aa91-439adc9d61f5"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Melody Club", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "db8ad42f-f29f-4cfd-a4cc-48cba58c59aa", 
+        "artistId": "0671576e-244f-4b16-b168-6f860c967329"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Bullmeister", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "7f28795d-9144-4f79-bbb4-c0142b2e5ffe", 
+        "artistId": "7c64d3fe-77c4-4e9d-8699-0e6cddd273ad"
+    }, 
+    {
+        "album": "Baby\u00b3", 
+        "artist": "Voom:Voom", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "4f0410d2-ffea-4897-8c24-a25dbf3b15ae", 
+        "artistId": "3e6e1257-5e4a-4119-ab59-c9318281b6b5"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Pnau", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "c475eca3-7c29-47e0-8608-7202a08c047b", 
+        "artistId": "b04df404-eefa-4ae4-9f3e-ba220d9dce16"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "The Detroit Cobras", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "6729f897-ae1d-4b3e-b996-7af553432862", 
+        "artistId": "9b8d6e11-05a4-4688-9d96-ad746bfedc41"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Yello", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "8026f7eb-594d-4f4c-88ad-233452ef8ddc", 
+        "artistId": "c616aef1-e21f-46f8-864f-b7bad96f41b2"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Yello", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "3a650e0b-7dcb-3263-8326-b3b860510bac", 
+        "artistId": "c616aef1-e21f-46f8-864f-b7bad96f41b2"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Yello", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "00b8ef39-5265-3201-9c9d-4ce2b1504ded", 
+        "artistId": "c616aef1-e21f-46f8-864f-b7bad96f41b2"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Rozalla", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "3c52e020-d3d4-4ff5-b1fb-3437abb37032", 
+        "artistId": "a41e9be6-6caf-464d-b3a8-48fdebc179f7"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Bosque Brown", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "c2c9aed1-504f-40d9-b314-b6afedfdffd4", 
+        "artistId": "66ae5199-0751-41bc-af30-dc70a98a9a45"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Bosque Brown", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "3f17b420-f7df-3e31-9615-90c83ccdf67f", 
+        "artistId": "66ae5199-0751-41bc-af30-dc70a98a9a45"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Brandy", 
+        "hasCover": true, 
+        "price": 12, 
+        "coverUrl": "http://coverartarchive.org/release/990f7dc8-dc6c-424b-8c73-a06718aeb684/9385354474-500.jpg", 
+        "albumId": "990f7dc8-dc6c-424b-8c73-a06718aeb684", 
+        "artistId": "01e60eba-52df-4694-8f09-39f43abe54e9"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Brandy", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "a290eda0-ece6-3e92-b119-cde9d6fb1854", 
+        "artistId": "01e60eba-52df-4694-8f09-39f43abe54e9"
+    }, 
+    {
+        "album": "Baby...", 
+        "artist": "God's Acre", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "07719f99-001c-4ed3-9bc8-5032f71aa319", 
+        "artistId": "6171f084-1c1f-49f2-8686-0d2d3f541467"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Justin Bieber", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "c22fb2e0-8d40-4284-b381-0dc09ac8dead", 
+        "artistId": "e0140a67-e4d1-4f13-8a01-364355bee46e"
+    }, 
+    {
+        "album": "BABY", 
+        "artist": "aiko", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "9d7cc599-11ed-49c6-b32c-ee3d91b02f5c", 
+        "artistId": "53e90c12-6ad0-4d1e-ad5b-f2e5d0059946"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "The Me-Janes", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "874edd8a-76a9-4e58-8afa-938bc01b2e38", 
+        "artistId": "5b235563-e236-4146-9e9d-c4abef5cd485"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Trotsky Icepick", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "90a852cc-30ff-447c-84db-824182172034", 
+        "artistId": "1510b532-d991-441a-a10d-f16a2061a70a"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Mansound", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "c967a67a-0953-4a40-890a-0b1af57549f5", 
+        "artistId": "90c8fca8-4258-41a3-ae4a-44ecd46c6439"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Lava Hay", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "1a620d73-d86d-4fa1-93ef-625709dd23a2", 
+        "artistId": "e0528216-1feb-4294-bef0-57546ae95f88"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Yello", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "06f2574e-2331-3e89-a839-de391256fcb8", 
+        "artistId": "c616aef1-e21f-46f8-864f-b7bad96f41b2"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Yello", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "551b4851-d59f-3e8f-a394-99e80c325846", 
+        "artistId": "c616aef1-e21f-46f8-864f-b7bad96f41b2"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Yello", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "7494926b-5799-35ac-a4c9-21d7788915b7", 
+        "artistId": "c616aef1-e21f-46f8-864f-b7bad96f41b2"
+    }, 
+    {
+        "album": "Baby", 
+        "artist": "Yello", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "8e201610-425a-3e60-93db-c4eda3f5b906", 
+        "artistId": "c616aef1-e21f-46f8-864f-b7bad96f41b2"
     }, 
     {
         "album": "Metal", 
@@ -147,7 +831,7 @@
         "album": "Metal", 
         "artist": "Messiah's Kiss", 
         "hasCover": false, 
-        "price": 15, 
+        "price": 13, 
         "coverUrl": "NOT FOUND", 
         "albumId": "6a4a2810-d681-4981-8a6a-6e282a0c9dff", 
         "artistId": "52898aab-f7cd-4cd0-965e-1e9c18fea98a"
@@ -156,7 +840,7 @@
         "album": "Metal", 
         "artist": "Manilla Road", 
         "hasCover": true, 
-        "price": 15, 
+        "price": 10, 
         "coverUrl": "http://coverartarchive.org/release/f6e84277-05e5-43ec-a03f-33936c6a8db1/10374841885-500.jpg", 
         "albumId": "f6e84277-05e5-43ec-a03f-33936c6a8db1", 
         "artistId": "71dc0b7d-64f7-49ba-8723-f60804911b4e"
@@ -165,7 +849,7 @@
         "album": "Metal", 
         "artist": "Newsted", 
         "hasCover": false, 
-        "price": 12, 
+        "price": 14, 
         "coverUrl": "NOT FOUND", 
         "albumId": "d6a12803-b5fd-4576-ad6b-af51807d7779", 
         "artistId": "ec1a8486-b66e-418b-87f2-63933c08d4d5"
@@ -180,10 +864,415 @@
         "artistId": "f7723ee3-0cb7-4973-a1ec-258d240eb3cb"
     }, 
     {
+        "album": "Metal", 
+        "artist": "Guns \u2019n\u2019 Wankers", 
+        "hasCover": true, 
+        "price": 12, 
+        "coverUrl": "http://coverartarchive.org/release/d1541037-e0b8-4084-8717-85d73f4b4f4b/4457350215-500.jpg", 
+        "albumId": "d1541037-e0b8-4084-8717-85d73f4b4f4b", 
+        "artistId": "c87f1177-4212-4daa-9203-3a4d2e27cf0e"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Newsted", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "87d4b328-6e9d-4f75-9e5b-3fd445121428", 
+        "artistId": "ec1a8486-b66e-418b-87f2-63933c08d4d5"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Technical Itch", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/cf7d8337-bc5f-4e8f-9c27-a8107b6be8d1/4278553219-500.jpg", 
+        "albumId": "cf7d8337-bc5f-4e8f-9c27-a8107b6be8d1", 
+        "artistId": "79f48fec-2ef2-431a-ba4d-9a5ea06bb655"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Afrika Bambaataa", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "df1a0ecd-7f9f-4b68-919d-538803b0acd5", 
+        "artistId": "fe3503fb-146f-4d68-a591-a7e5798c321f"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Steve Stoll", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "0dbbfdfb-9ecb-43ac-946b-e0ae88cd9999", 
+        "artistId": "1365bd1d-0777-4167-a6dd-cf80fd526cfa"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Various Artists", 
+        "hasCover": true, 
+        "price": 12, 
+        "coverUrl": "http://coverartarchive.org/release/d8231c41-0a47-45ec-85c3-b859de2029c8/9318730161-500.jpg", 
+        "albumId": "d8231c41-0a47-45ec-85c3-b859de2029c8", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Brian Bromberg", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "0c6c335a-5c83-464c-9b59-7aebe3980f81", 
+        "artistId": "69ed9582-7b72-4b7b-8e30-816c06e5f89b"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Annihilator", 
+        "hasCover": true, 
+        "price": 10, 
+        "coverUrl": "http://coverartarchive.org/release/5faf2a2f-e21c-3d23-9139-13dbe15683ad/936176919-500.jpg", 
+        "albumId": "5faf2a2f-e21c-3d23-9139-13dbe15683ad", 
+        "artistId": "c30ebe30-514f-4e6d-823a-19adf0225a56"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Annihilator", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/e72c8702-f809-33ea-b5d5-46d7ce44e942/4899410256-500.jpg", 
+        "albumId": "e72c8702-f809-33ea-b5d5-46d7ce44e942", 
+        "artistId": "c30ebe30-514f-4e6d-823a-19adf0225a56"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Cubanate", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/52f77c64-c8a7-49c5-90a8-acbdc87a8a65/3076120941-500.jpg", 
+        "albumId": "52f77c64-c8a7-49c5-90a8-acbdc87a8a65", 
+        "artistId": "c1dc5e6a-567a-4664-8f1a-0c618cfa72f3"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Preston Reed", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "a37ae336-8a1e-4632-b92b-c8cd0e64657e", 
+        "artistId": "e2e296c5-2318-4be9-8002-a3352c37c5e5"
+    }, 
+    {
+        "album": "Metal!", 
+        "artist": "The Thing", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "e22c10dd-1106-4298-a390-0e052bad8f1b", 
+        "artistId": "12f048d7-7a51-4e80-9df9-344aa58ebd1b"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Black Asteroid", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "0709ac13-0337-4edf-b200-4e5c76311f9d", 
+        "artistId": "e0f258e4-c266-4022-babc-3b505dfc9d1c"
+    }, 
+    {
+        "album": "MetaL MetaL", 
+        "artist": "Met\u00e1 Met\u00e1", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "d9a5432e-f099-4da3-879d-64338139b85d", 
+        "artistId": "61dec3a8-94f1-4d2d-a654-432577c7dba7"
+    }, 
+    {
+        "album": "MetaL MetaL", 
+        "artist": "Met\u00e1 Met\u00e1", 
+        "hasCover": true, 
+        "price": 10, 
+        "coverUrl": "http://coverartarchive.org/release/ae1a6c76-1c62-4843-8902-8e23178efd7a/6968892839-500.jpg", 
+        "albumId": "ae1a6c76-1c62-4843-8902-8e23178efd7a", 
+        "artistId": "61dec3a8-94f1-4d2d-a654-432577c7dba7"
+    }, 
+    {
+        "album": "METAL METAL", 
+        "artist": "Met\u00e1 Met\u00e1", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "33d35246-3dce-4c20-8ff3-d2e627326a6c", 
+        "artistId": "61dec3a8-94f1-4d2d-a654-432577c7dba7"
+    }, 
+    {
+        "album": "Metal Hammer: Metal 2005", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "ff892448-7c08-4035-b270-d2aeba9a0e8c", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Techno Metal, Nu Metal", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "ff393b40-6503-44b6-b245-6495604c7bd2", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Metal on Metal", 
+        "artist": "Anvil", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "8c6c5e81-76b3-3599-8932-b55b64dca023", 
+        "artistId": "07a85e96-bb72-4930-b41d-24853f4a4ede"
+    }, 
+    {
+        "album": "Metal on Metal", 
+        "artist": "Aube", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "8dab7445-9b53-4f3b-8d6e-dd99e57e0e4d", 
+        "artistId": "c57d8c1f-e8a9-442e-9700-1821f165460a"
+    }, 
+    {
+        "album": "Metal on Metal", 
+        "artist": "Anvil", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "904ba9e7-b40f-3239-a96a-c1a1bd2992ef", 
+        "artistId": "07a85e96-bb72-4930-b41d-24853f4a4ede"
+    }, 
+    {
+        "album": "M\u00e9tal de M\u00e9tal", 
+        "artist": "Aube", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "a16913f1-8939-46fc-97c3-c8a8b5051285", 
+        "artistId": "c57d8c1f-e8a9-442e-9700-1821f165460a"
+    }, 
+    {
+        "album": "Metal on Metal", 
+        "artist": "Anvil", 
+        "hasCover": true, 
+        "price": 10, 
+        "coverUrl": "http://coverartarchive.org/release/39467290-704e-4f0e-b804-9527c40d9695/4949650785-500.jpg", 
+        "albumId": "39467290-704e-4f0e-b804-9527c40d9695", 
+        "artistId": "07a85e96-bb72-4930-b41d-24853f4a4ede"
+    }, 
+    {
+        "album": "Metal Hammer: Battle Metal", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "1894e1bf-b423-4a8c-afbc-c29938088aa9", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Metal on Metal: Finnish Underground Metal Compilation", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "e2842ca9-dcf0-4d43-8180-9f991de4a86e", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Metal Hammer #249: Metal on Metal", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "84415495-8d2f-4281-8203-d7e9a9ab2d7d", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Virgin Metal", 
+        "artist": "Let Me Crazy", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "fc20c4bb-7b4d-4939-83b0-4dd20f440964", 
+        "artistId": "a8033dbb-8f69-44b5-9c41-54e857012d3b"
+    }, 
+    {
+        "album": "Metal Mayhem", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "2986ba6c-b666-4380-90d6-a4e78a409484", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Metal Meltdown", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "b0f942f3-baf9-4352-a5ee-cd301ecf2bcb", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Metal Majesty", 
+        "artist": "Metal Majesty", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "177005f3-0eb0-4ee4-8334-ab12626c99cf", 
+        "artistId": "a91d7df5-da62-4828-9805-c0cf3d3c43fd"
+    }, 
+    {
+        "album": "Doubleshot: Metal", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "074f053b-db02-4832-bef8-d4211320235e", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Metal Machine", 
+        "artist": "Midnight Sun", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "03316b58-e0f2-4e41-8235-2571bbca1f50", 
+        "artistId": "90ef6c8d-fdfb-443a-9998-8d1a3330d9ca"
+    }, 
+    {
+        "album": "Metal Mania", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "d95307ee-a2e7-4970-9093-0cae209e8397", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Mongoloid Metal", 
+        "artist": "Amoebic Dysentery", 
+        "hasCover": true, 
+        "price": 14, 
+        "coverUrl": "http://coverartarchive.org/release/95e97f01-0fb5-471d-81a3-b5938a496347/1558221134-500.jpg", 
+        "albumId": "95e97f01-0fb5-471d-81a3-b5938a496347", 
+        "artistId": "f19d2b1b-04be-4f6d-8f64-4ba6cda01d43"
+    }, 
+    {
+        "album": "Metal Gods", 
+        "artist": "Various Artists", 
+        "hasCover": true, 
+        "price": 15, 
+        "coverUrl": "http://coverartarchive.org/release/e7138588-37bf-4e84-be9b-9703475e8c72/12623352031-500.jpg", 
+        "albumId": "e7138588-37bf-4e84-be9b-9703475e8c72", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Heavy Metal", 
+        "artist": "Elmer Bernstein", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "4abb01f7-f06e-48b2-a23b-1f0b01d1e25a", 
+        "artistId": "e2c7d7a5-b520-4232-b7cf-aaceead17b6c"
+    }, 
+    {
+        "album": "WSIC: Metal", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "8af76ce8-f980-4e61-b9ba-798221b41a27", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Sex Metal", 
+        "artist": "Ledernacken", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "cb382ea7-3d94-422e-bf23-d9e378c8f509", 
+        "artistId": "e67dffbb-c90c-4596-a7cd-1538bffed186"
+    }, 
+    {
+        "album": "Love Metal", 
+        "artist": "HIM", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "a1ad9835-172a-4792-9e38-c3f796c55a01", 
+        "artistId": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"
+    }, 
+    {
+        "album": "Classic Metal", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "b141e399-b3e1-4c8b-886a-c2670b6ca766", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Molten Metal", 
+        "artist": "Various Artists", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/9308a471-0fa2-4a2c-8da9-50687e0e6d60/7550745911-500.jpg", 
+        "albumId": "9308a471-0fa2-4a2c-8da9-50687e0e6d60", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Drug Metal", 
+        "artist": "Hezzakya", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "04816b1a-3ccf-47d8-9783-f449e16a6a17", 
+        "artistId": "23775dad-057c-4d84-9d8d-9767eed3c0f6"
+    }, 
+    {
+        "album": "Metal Killers", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "671eb4b6-0224-4234-a3e7-3c0d99a7e31c", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Metal Slaves", 
+        "artist": "Mystery Blue", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "f5509456-1042-465a-8914-81b0553e0778", 
+        "artistId": "f7ffcb0e-b21e-4755-810a-86f337f5f101"
+    }, 
+    {
+        "album": "Metal Dreams", 
+        "artist": "Various Artists", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/bd603ac8-8513-45cc-b38b-0c8b83eab453/9175293467-500.jpg", 
+        "albumId": "bd603ac8-8513-45cc-b38b-0c8b83eab453", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
         "album": "House", 
         "artist": "hi-posi", 
         "hasCover": false, 
-        "price": 11, 
+        "price": 12, 
         "coverUrl": "NOT FOUND", 
         "albumId": "2c79520f-acdf-4397-a483-5c29626ba972", 
         "artistId": "d33f15b3-966e-4a40-87c2-a72b868947a7"
@@ -192,7 +1281,7 @@
         "album": "House", 
         "artist": "Various Artists", 
         "hasCover": false, 
-        "price": 14, 
+        "price": 12, 
         "coverUrl": "NOT FOUND", 
         "albumId": "7639de3b-b280-4903-88ee-fbe404e9ab02", 
         "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
@@ -201,7 +1290,7 @@
         "album": "House", 
         "artist": "Kindness", 
         "hasCover": false, 
-        "price": 11, 
+        "price": 10, 
         "coverUrl": "NOT FOUND", 
         "albumId": "6af6e4c2-3f1b-4af4-aff9-89187ee8f345", 
         "artistId": "71828a18-b630-4f50-8f75-51e71d31b807"
@@ -225,55 +1314,415 @@
         "artistId": "dde81b65-8084-4f3d-ace6-5531c53730e3"
     }, 
     {
-        "album": "Dance", 
-        "artist": "Gary Numan", 
+        "album": "House", 
+        "artist": "Patrick Wolf", 
         "hasCover": false, 
-        "price": 15, 
+        "price": 14, 
         "coverUrl": "NOT FOUND", 
-        "albumId": "3c12933b-ed26-4648-bcc8-22334ac73098", 
-        "artistId": "6cb79cb2-9087-44d4-828b-5c6fdff2c957"
+        "albumId": "01125948-ba3d-4e5d-ab77-c0aa8b7f1d3a", 
+        "artistId": "4ac4e32b-bd18-402e-adad-ae00e72f8d85"
     }, 
     {
-        "album": "Dance", 
-        "artist": "Gary Numan", 
-        "hasCover": false, 
-        "price": 12, 
-        "coverUrl": "NOT FOUND", 
-        "albumId": "c0a25970-1d48-43c4-a19f-26ea8473e8a6", 
-        "artistId": "6cb79cb2-9087-44d4-828b-5c6fdff2c957"
-    }, 
-    {
-        "album": "Dance", 
-        "artist": "Sherman", 
-        "hasCover": false, 
-        "price": 12, 
-        "coverUrl": "NOT FOUND", 
-        "albumId": "9bc6954d-b0a8-4797-b820-46295be05830", 
-        "artistId": "8f257076-e161-4bd1-9460-23d995d3c164"
-    }, 
-    {
-        "album": "Dance", 
-        "artist": "Rebecca & Fiona", 
+        "album": "House", 
+        "artist": "Patrick Wolf", 
         "hasCover": false, 
         "price": 13, 
         "coverUrl": "NOT FOUND", 
-        "albumId": "f6b79b8a-e759-48e6-9d15-f8ec0a2881c1", 
-        "artistId": "79ba6a62-037c-4f16-bbf3-8fe8b363451b"
+        "albumId": "ae81575c-9dcd-463d-99eb-4f0ceb50df61", 
+        "artistId": "4ac4e32b-bd18-402e-adad-ae00e72f8d85"
     }, 
     {
-        "album": "Dance", 
-        "artist": "Danko Jones", 
+        "album": "House", 
+        "artist": "Mist", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "ee9d09ad-b7bd-486f-ba8e-30cda99c17b2", 
+        "artistId": "dc0c5d89-3abf-424a-ac0a-3ec7c6aeafed"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Amanda Mair", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "17335a66-5f03-4bb3-a5ee-48b677560214", 
+        "artistId": "e8b0851b-638f-4ec5-90c0-904cde590b40"
+    }, 
+    {
+        "album": "House", 
+        "artist": "The Psychedelic Furs", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "cb1d781f-9fed-43f3-811c-ba3012c6d4ea", 
+        "artistId": "9f930ddf-be2f-4de5-a39f-7ae47305752e"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "0d058562-2110-47c8-b1e4-9423effd329b", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Orange 9usd", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "4124fd9c-bd20-4a29-93ab-f64b32862f23", 
+        "artistId": "fa56f8ba-1b25-47bd-82bf-6fbf4ca969f5"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Sahlene", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "0cd306cf-ce5a-49b8-98bc-00178eb2c1ec", 
+        "artistId": "c3113f88-161f-4009-bf15-7009f18c6243"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Young Buffalo", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "5cecf7e9-a29d-4c47-aa1b-1859c0d62f29", 
+        "artistId": "c86ba636-2630-47c2-8931-ec1086fd367d"
+    }, 
+    {
+        "album": "House", 
+        "artist": "We'll Make it Right", 
+        "hasCover": true, 
+        "price": 14, 
+        "coverUrl": "http://coverartarchive.org/release/60d1d71c-efa8-4f27-b217-735d2f9456c3/8744045728-500.jpg", 
+        "albumId": "60d1d71c-efa8-4f27-b217-735d2f9456c3", 
+        "artistId": "8189c284-ae15-4f27-9748-90b46d20892c"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Christopher Just", 
         "hasCover": false, 
         "price": 11, 
         "coverUrl": "NOT FOUND", 
-        "albumId": "8a114dfb-d6cd-4e6d-9784-7d2a756a5387", 
-        "artistId": "ab4721e4-bc37-4bd2-be8c-8f1550152ad6"
+        "albumId": "607894eb-6231-4fc5-b4af-4de0f27399e5", 
+        "artistId": "900a99b1-dc46-4562-9bc9-03608c90ff6b"
+    }, 
+    {
+        "album": "House", 
+        "artist": "A Giant Dog", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "032f9732-1d14-4b92-9c6f-631b7486fdef", 
+        "artistId": "bb0d5332-15c0-4206-9fd8-0ec5eb3b7076"
+    }, 
+    {
+        "album": "HOUSE", 
+        "artist": "\u8c37\u6751\u5fd7\u7a42", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "8f570d6f-3ee9-4825-b6d4-eda29f2daba1", 
+        "artistId": "27c77cca-8800-4b82-893f-c48c8d09a8f8"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Le Concorde", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "a3eb37db-44dd-47e1-a4b7-158698d6c995", 
+        "artistId": "7b78e634-b64e-4207-bc0c-b68fbd6dab52"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Young Buffalo", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/ebef8679-b9f1-481f-9e80-e63c7eaeefd5/12403729760-500.jpg", 
+        "albumId": "ebef8679-b9f1-481f-9e80-e63c7eaeefd5", 
+        "artistId": "c86ba636-2630-47c2-8931-ec1086fd367d"
+    }, 
+    {
+        "album": "House", 
+        "artist": "OVERWERK", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "8d5d2768-5ecb-48a9-ba77-fa6eb65eb5eb", 
+        "artistId": "67404ef7-0377-4377-b21b-48a06ecfb63e"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Global Goon", 
+        "hasCover": true, 
+        "price": 10, 
+        "coverUrl": "http://coverartarchive.org/release/90fb54ad-ceb5-406a-9e0d-27fbfc323e1e/11705604212-500.jpg", 
+        "albumId": "90fb54ad-ceb5-406a-9e0d-27fbfc323e1e", 
+        "artistId": "d11ea373-77ed-46eb-96a8-b70ea633081e"
+    }, 
+    {
+        "album": "The House Of House", 
+        "artist": "Cherry Moon Trax", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "ae2c7e78-368d-415b-a0a0-456a1acc522c", 
+        "artistId": "4349b4b4-15bb-4240-9390-21ffa24d788c"
+    }, 
+    {
+        "album": "House, Funky House", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "0d24b212-8526-4760-a34a-d6a3c984d2ff", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "House of House", 
+        "artist": "Lady Tom", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "ec8ba478-c5ce-4931-8d7b-260f910092fb", 
+        "artistId": "1564cc89-6fcc-434d-80b5-39a3aeb5897b"
+    }, 
+    {
+        "album": "Kontor: House of House", 
+        "artist": "Various Artists", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/a1e9b3b2-665a-4118-92c0-69729e8447db/2948379399-500.jpg", 
+        "albumId": "a1e9b3b2-665a-4118-92c0-69729e8447db", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Erotic House", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "94c10375-121a-4679-8fa3-7459f7703369", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "House Music", 
+        "artist": "Eddie Amador", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "aae0bd14-9003-4289-b1ab-eb73bca60aaf", 
+        "artistId": "9322c0b4-9b07-45f8-8314-4ff483b77456"
+    }, 
+    {
+        "album": "Albert's House", 
+        "artist": "Chet Baker", 
+        "hasCover": true, 
+        "price": 12, 
+        "coverUrl": "http://coverartarchive.org/release/6d80b1da-13a9-4209-b619-b2c3c7b1d88f/4617764485-500.jpg", 
+        "albumId": "6d80b1da-13a9-4209-b619-b2c3c7b1d88f", 
+        "artistId": "1ba1d493-7114-45e2-b163-a36d49a0c065"
+    }, 
+    {
+        "album": "House Blessing", 
+        "artist": "Jet Black Factory", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "e36ef881-1d4c-47d6-9d4f-1ca3b2251f72", 
+        "artistId": "55b19eaa-f934-4498-9f89-1017aad6c423"
+    }, 
+    {
+        "album": "Open House", 
+        "artist": "Himlav\u00e4sen", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "dc850076-48a5-4aeb-b4aa-56a3e66dd0ce", 
+        "artistId": "928f2387-f28e-4942-bbb8-a4d0838deff7"
+    }, 
+    {
+        "album": "Platinum House", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "1fd75af5-9ed1-43cf-aeb0-548a93fc754f", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Frankie\u2019s House", 
+        "artist": "Jeff Beck", 
+        "hasCover": true, 
+        "price": 14, 
+        "coverUrl": "http://coverartarchive.org/release/276a806e-b0d7-40f3-85c6-2cc5f7cab247/7966512790-500.jpg", 
+        "albumId": "276a806e-b0d7-40f3-85c6-2cc5f7cab247", 
+        "artistId": "14a4bc78-1c2d-4ca7-8d1b-9b58076a2a17"
+    }, 
+    {
+        "album": "Marshall\u2019s House", 
+        "artist": "John Squire", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "ac6d9fd0-e90a-468a-91ce-b8588d226b53", 
+        "artistId": "a5fe0213-6f08-4369-8f16-5d15b329e56d"
+    }, 
+    {
+        "album": "Kiln House", 
+        "artist": "Fleetwood Mac", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/38d1e49b-4b60-41b6-b56b-f2884fdc4017/6642792990-500.jpg", 
+        "albumId": "38d1e49b-4b60-41b6-b56b-f2884fdc4017", 
+        "artistId": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a"
+    }, 
+    {
+        "album": "Full House", 
+        "artist": "Frankie Miller", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "b4b1fa84-ce48-4e23-bea4-333b24b226c6", 
+        "artistId": "ad231dd9-d6ab-4da4-b4f2-a6807bc45f5a"
+    }, 
+    {
+        "album": "Cleaning House", 
+        "artist": "Saffire - The Uppity Blues Women", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/6577374a-e0ae-4cb0-bc6c-189b9c2e5fcc/10700126825-500.jpg", 
+        "albumId": "6577374a-e0ae-4cb0-bc6c-189b9c2e5fcc", 
+        "artistId": "5c0f9df3-51a9-41e4-affa-6d1f3edc9244"
+    }, 
+    {
+        "album": "Aoi House", 
+        "artist": "J Brothers", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "6c96cee4-1eb5-4c56-951d-956d4f7a347e", 
+        "artistId": "a2a08501-0f19-4b48-a2d7-6fee953a3722"
+    }, 
+    {
+        "album": "300% House", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "7545c1b3-0fbf-4479-9b8f-1a5aa4c4a525", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "The House", 
+        "artist": "1994", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "3157c200-97a7-4c16-82c4-e36c5654731a", 
+        "artistId": "0cd3ce7a-a0ad-430e-a6ec-078d841c96c0"
+    }, 
+    {
+        "album": "Strange House", 
+        "artist": "The Horrors", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "80bc255a-cac0-4461-809e-fa3007d3024f", 
+        "artistId": "00467da8-2a92-498f-8b10-a80889bcded7"
+    }, 
+    {
+        "album": "House Bomba", 
+        "artist": "House Bomba", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "b69f9835-ee8f-4730-bb56-b60b6ed54f96", 
+        "artistId": "69415986-6a02-4c2c-bf5d-2f8a63bec198"
+    }, 
+    {
+        "album": "House 2007", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "072aab2c-5c51-4072-a60a-cb33b6a20dca", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Open House", 
+        "artist": "Open House", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "751ebba2-5653-46fe-835a-35b649d8909e", 
+        "artistId": "f20ca4d8-75ab-4c58-90a8-24a673750380"
+    }, 
+    {
+        "album": "House Music", 
+        "artist": "Waulk Electrik", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "1b9854ec-6ba9-4ab6-b75a-0181eb5bcf8d", 
+        "artistId": "c8de876a-a8e5-432d-ae00-d0a94631e167"
+    }, 
+    {
+        "album": "Gay House", 
+        "artist": "Go Home Productions", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "b3c513b1-d822-4dd3-8fd8-252e26c8eb1e", 
+        "artistId": "4a39e5ea-6b75-498b-92c0-6cf107bfb759"
+    }, 
+    {
+        "album": "House Afire", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "e62c5478-3dd3-426f-b165-5b8aec9c0e87", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "House Stream", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "3631b219-ffa5-4ba5-86f1-0b53be45a2f6", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Open House", 
+        "artist": "Lorie Line", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "4a95e89b-ed05-400e-9e13-0ab5fd69070b", 
+        "artistId": "5d6c8f6b-c3c3-473a-991a-84b70f9302ec"
+    }, 
+    {
+        "album": "Praise House", 
+        "artist": "Hypersonic", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/20fa6a03-926d-45f1-bbe0-e4143a4d8acd/7810522805-500.jpg", 
+        "albumId": "20fa6a03-926d-45f1-bbe0-e4143a4d8acd", 
+        "artistId": "2998f95c-c7c8-457d-979a-26ebb95e91ec"
     }, 
     {
         "album": "Hot", 
         "artist": "Melanie Brown", 
         "hasCover": false, 
-        "price": 12, 
+        "price": 15, 
         "coverUrl": "NOT FOUND", 
         "albumId": "ee894a3f-04e7-4c09-b747-830c9878c218", 
         "artistId": "9a6f7310-87f0-4fe0-baf1-a58f719b1f3b"
@@ -282,7 +1731,7 @@
         "album": "Hot", 
         "artist": "Red Hot Chili Peppers", 
         "hasCover": false, 
-        "price": 14, 
+        "price": 11, 
         "coverUrl": "NOT FOUND", 
         "albumId": "309c147f-e7a8-41b0-b06b-d0e167dd48e6", 
         "artistId": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
@@ -291,7 +1740,7 @@
         "album": "Hot", 
         "artist": "James Brown", 
         "hasCover": false, 
-        "price": 12, 
+        "price": 11, 
         "coverUrl": "NOT FOUND", 
         "albumId": "47d2a567-2893-4036-a6f7-268247d7cf4d", 
         "artistId": "20ff3303-4fe2-4a47-a1b6-291e26aa3438"
@@ -300,7 +1749,7 @@
         "album": "Hot", 
         "artist": "The Equators", 
         "hasCover": false, 
-        "price": 10, 
+        "price": 12, 
         "coverUrl": "NOT FOUND", 
         "albumId": "5d5f8461-cdbc-4e36-ae7b-be3507aba418", 
         "artistId": "45fae115-cbdf-4de0-9482-3e9311cdc087"
@@ -309,9 +1758,414 @@
         "album": "Hot", 
         "artist": "Squirrel Nut Zippers", 
         "hasCover": true, 
-        "price": 15, 
+        "price": 13, 
         "coverUrl": "http://coverartarchive.org/release/70fc4df9-1a86-4357-aac7-0694d4248aed/8413711733-500.jpg", 
         "albumId": "70fc4df9-1a86-4357-aac7-0694d4248aed", 
         "artistId": "31810c40-932a-4f2d-8cfd-17849844e2a6"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Willie Ninja", 
+        "hasCover": true, 
+        "price": 12, 
+        "coverUrl": "http://coverartarchive.org/release/a7346268-88cf-4a9b-8643-0a0317423c38/2672251762-500.jpg", 
+        "albumId": "a7346268-88cf-4a9b-8643-0a0317423c38", 
+        "artistId": "80c4a9b3-91fb-4cdd-bf5c-05815c93d8ca"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "3b481429-9be9-4850-ac81-a49fdef3b3dd", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "M.O", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/3719c6b3-74d5-48a0-b385-eb2fe90a4960/4585430043-500.jpg", 
+        "albumId": "3719c6b3-74d5-48a0-b385-eb2fe90a4960", 
+        "artistId": "0a0c08b7-7e6b-41d1-b333-b4f0e63b078b"
+    }, 
+    {
+        "album": "Hot!", 
+        "artist": "Miami Black Palms", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "4558561c-a3d1-4ee0-ab65-65e50cd33823", 
+        "artistId": "d9feef9a-5b55-4168-b90a-ee5e11b9a556"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Destra Garcia", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "42fa5a6d-fb41-45b4-a7fc-91eae6349647", 
+        "artistId": "96e675d3-2639-4d22-9ffa-c3e5463b23c2"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Reckless Love", 
+        "hasCover": true, 
+        "price": 15, 
+        "coverUrl": "http://coverartarchive.org/release/10e0ad3a-5901-4e72-b9ad-2700278b9ae4/6472584473-500.jpg", 
+        "albumId": "10e0ad3a-5901-4e72-b9ad-2700278b9ae4", 
+        "artistId": "e225bec6-7c83-459a-b7e0-ecb9bc9a6a3e"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Willie Ninja", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "b6b9a028-54da-495e-a580-63cdfab32b89", 
+        "artistId": "80c4a9b3-91fb-4cdd-bf5c-05815c93d8ca"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Bunga Citra Lestari", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/77c9429b-8cac-4844-9657-1062d8b06fff/7572499142-500.jpg", 
+        "albumId": "77c9429b-8cac-4844-9657-1062d8b06fff", 
+        "artistId": "a2e33d5d-e38a-4eac-9daa-2bbe54e0b462"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": true, 
+        "price": 14, 
+        "coverUrl": "http://coverartarchive.org/release/7a3d5766-8b42-4157-9158-a7ca6f413783/6679085473-500.jpg", 
+        "albumId": "7a3d5766-8b42-4157-9158-a7ca6f413783", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": true, 
+        "price": 12, 
+        "coverUrl": "http://coverartarchive.org/release/db871df6-39ff-4900-af5e-9bdf9c88c508/6679193314-500.jpg", 
+        "albumId": "db871df6-39ff-4900-af5e-9bdf9c88c508", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": true, 
+        "price": 10, 
+        "coverUrl": "http://coverartarchive.org/release/6b43f38f-9e92-441d-ba95-5aede499cfc0/6679456964-500.jpg", 
+        "albumId": "6b43f38f-9e92-441d-ba95-5aede499cfc0", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/9768a43a-2dad-404e-89a3-51d0fc6b4f2a/6679902332-500.jpg", 
+        "albumId": "9768a43a-2dad-404e-89a3-51d0fc6b4f2a", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/d5b123ae-b9cb-41fc-b442-acb536c5e139/6679936966-500.jpg", 
+        "albumId": "d5b123ae-b9cb-41fc-b442-acb536c5e139", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "7407e54a-332c-487f-bbea-eeb8e4d3c7fd", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": true, 
+        "price": 10, 
+        "coverUrl": "http://coverartarchive.org/release/d3c00d16-7398-47cf-8c73-65d47b011b18/6680257263-500.jpg", 
+        "albumId": "d3c00d16-7398-47cf-8c73-65d47b011b18", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/e7bb1df0-b2b2-4e48-873a-4720cd69aabe/12587088449-500.jpg", 
+        "albumId": "e7bb1df0-b2b2-4e48-873a-4720cd69aabe", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Reckless Love", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/64df8f17-1fd8-413a-a4ba-ae3df6537b4a/6984437064-500.jpg", 
+        "albumId": "64df8f17-1fd8-413a-a4ba-ae3df6537b4a", 
+        "artistId": "e225bec6-7c83-459a-b7e0-ecb9bc9a6a3e"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": true, 
+        "price": 10, 
+        "coverUrl": "http://coverartarchive.org/release/5dfe77d2-f8ec-46c1-90b8-7c0b65137ee3/6089999638-500.jpg", 
+        "albumId": "5dfe77d2-f8ec-46c1-90b8-7c0b65137ee3", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "9ea51a0d-5bd3-44a0-a0e2-736bc5867a72", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Avril Lavigne", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "3de2efa0-83fe-41c9-af58-b5795bdb050d", 
+        "artistId": "0103c1cc-4a09-4a5d-a344-56ad99a77193"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Dax Riders", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/0cfbeee1-0d8e-43c4-b2f2-2a87c91052b5/1460091391-500.jpg", 
+        "albumId": "0cfbeee1-0d8e-43c4-b2f2-2a87c91052b5", 
+        "artistId": "ad590f7a-1ef8-4c40-ac7d-cbdfebb4e304"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Avril Lavigne", 
+        "hasCover": true, 
+        "price": 11, 
+        "coverUrl": "http://coverartarchive.org/release/c8f32101-04c9-4f76-ae54-8545f2427b21/12051342954-500.jpg", 
+        "albumId": "c8f32101-04c9-4f76-ae54-8545f2427b21", 
+        "artistId": "0103c1cc-4a09-4a5d-a344-56ad99a77193"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Avril Lavigne", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "b9eba852-ce3e-4b2f-8408-d83ae2aa84db", 
+        "artistId": "0103c1cc-4a09-4a5d-a344-56ad99a77193"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": true, 
+        "price": 15, 
+        "coverUrl": "http://coverartarchive.org/release/f62a4a3f-f84c-4c27-b6e4-34b8a04ec8c8/4424551637-500.jpg", 
+        "albumId": "f62a4a3f-f84c-4c27-b6e4-34b8a04ec8c8", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Louie Bellson", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "d7fdf285-de8f-4fdc-9283-d7818da9bc55", 
+        "artistId": "eeef4695-266c-4bf6-9697-4d0569204f7d"
+    }, 
+    {
+        "album": "HOT", 
+        "artist": "\ud0dc\uc591", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "bf8ba59b-974c-47af-bda4-4642fb867700", 
+        "artistId": "d84e5667-3cbe-4556-b551-9d7e4be95d71"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "69ef6bba-1851-4749-aae6-8a88c3028ebc", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "c5f105f2-c3bf-436e-84fb-7eaf5b9a64c4", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "1a08e840-84b1-4f28-9613-b59c1969a361", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Half Japanese", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "f5269397-192e-4d70-911b-0e4095d2bbec", 
+        "artistId": "18dc6bd7-9caa-4c2d-a2fc-e9546ebda6a4"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": true, 
+        "price": 12, 
+        "coverUrl": "http://coverartarchive.org/release/4788ce1e-12ac-40bf-829b-68fb58134951/3369456764-500.jpg", 
+        "albumId": "4788ce1e-12ac-40bf-829b-68fb58134951", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Various Artists", 
+        "hasCover": false, 
+        "price": 11, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "5001ab1a-2cd2-4686-83a9-d63949920555", 
+        "artistId": "89ad4ac3-39f7-470e-963a-56509c546377"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "M\u00e4rtini Br\u00f6s.", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "2894c0a9-0b78-42a1-9461-9e1301354cf5", 
+        "artistId": "d232422e-3c62-477e-8c33-abdf405de380"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Melanie Brown", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "917c1feb-b4b6-4539-913b-eb021bd33fea", 
+        "artistId": "9a6f7310-87f0-4fe0-baf1-a58f719b1f3b"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Andrew Michael Simon", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "5d2ab847-aac4-49d7-abad-7f592431656a", 
+        "artistId": "bb172b4a-98a8-4d52-9695-c3190eb2af01"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Maynard Ferguson", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "b3a1c7c0-4a91-4690-810f-3a43d31be934", 
+        "artistId": "625f1d57-8bac-4a3a-97af-f407f2967755"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Caspian Pool", 
+        "hasCover": true, 
+        "price": 13, 
+        "coverUrl": "http://coverartarchive.org/release/7c8338e6-ae14-44a3-8d02-484130370e9c/8915717495-500.jpg", 
+        "albumId": "7c8338e6-ae14-44a3-8d02-484130370e9c", 
+        "artistId": "f8e09695-ec9e-44e2-a86f-3442efa37a71"
+    }, 
+    {
+        "album": "HOT!", 
+        "artist": "KEYTALK", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "d20d0d98-7ed0-4c23-9071-faf73574f1a6", 
+        "artistId": "d18816e6-da3f-4089-bbfc-62670f2bbcbd"
+    }, 
+    {
+        "album": "HOT!", 
+        "artist": "KEYTALK", 
+        "hasCover": false, 
+        "price": 13, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "e9cfa190-1845-4974-a56b-c81dd44f3ca1", 
+        "artistId": "d18816e6-da3f-4089-bbfc-62670f2bbcbd"
+    }, 
+    {
+        "album": "HOT!", 
+        "artist": "KEYTALK", 
+        "hasCover": false, 
+        "price": 10, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "80f0253d-4924-403f-8d02-fd7f21871b21", 
+        "artistId": "d18816e6-da3f-4089-bbfc-62670f2bbcbd"
+    }, 
+    {
+        "album": "HOT!", 
+        "artist": "KEYTALK", 
+        "hasCover": false, 
+        "price": 12, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "6c31f0a7-4bf2-404b-816f-c3cf846d7d81", 
+        "artistId": "d18816e6-da3f-4089-bbfc-62670f2bbcbd"
+    }, 
+    {
+        "album": "HOT!", 
+        "artist": "KEYTALK", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "0c6685e1-324f-4b3c-86ef-a5e9f3e81d20", 
+        "artistId": "d18816e6-da3f-4089-bbfc-62670f2bbcbd"
+    }, 
+    {
+        "album": "HOT!", 
+        "artist": "KEYTALK", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "2f74c0cb-07ba-49ce-a8d3-652671abd8e1", 
+        "artistId": "d18816e6-da3f-4089-bbfc-62670f2bbcbd"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": false, 
+        "price": 15, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "2fe75dd2-a416-4921-b2f3-62e35f397443", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "hasCover": false, 
+        "price": 14, 
+        "coverUrl": "NOT FOUND", 
+        "albumId": "15c07339-5332-494a-b35d-a0311383940d", 
+        "artistId": "99efca32-eea1-45fb-92cb-8798976a9769"
     }
 ]
