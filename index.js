@@ -28,14 +28,19 @@ app.get(SERVICE_CHECK_HTTP, (req, res) => res.send({ uptime: process.uptime() })
 app.get(SERVICE_ENDPOINTS, endpoints());
 
 // Add all other service routes
-app.get('/superstars', (req, res) => {
+app.get('/cds', (req, res) => {
   res.send([
-    'Scarlett Johansson',
-    'Leonardo DiCaprio',
-    'Jennifer Lawrence',
-    'Ashton Kutcher',
-    'Kate Beckinsale',
-    'Robert Downey Jr.'
+    {
+      artist : "Rodriguez",
+      album : "album",
+      year : "1994",
+      price : 15.00
+    }, {
+      artist : "Rodriguez",
+      album : "album 2",
+      year : "1996",
+      price : 15.00
+    }
   ]);
 });
 
