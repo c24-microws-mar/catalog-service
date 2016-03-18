@@ -27,21 +27,36 @@ app.get(SERVICE_CHECK_HTTP, (req, res) => res.send({ uptime: process.uptime() })
 // Add metadata endpoint
 app.get(SERVICE_ENDPOINTS, endpoints());
 
-// Add all other service routes
+let cd = {
+  artist : "The Offspring",
+  artistId : "23a03e33-a603-404e-bcbf-2c00159d7067",
+  album : "The Offspring",
+  albumId : "540764b9-ea52-413a-8b7e-ac91bd0bbfd8",
+  date : "1989-03",
+  price : 15.00,
+  coverLink : "https://media.giphy.com/media/xTk9ZUb96JJueUfmCI/giphy.gif"
+}
+
+let cds = [ cd, cd];
+
+
 app.get('/cds', (req, res) => {
-  res.send([
-    {
-      artist : "Rodriguez",
-      album : "album",
-      year : "1994",
-      price : 15.00
-    }, {
-      artist : "Rodriguez",
-      album : "album 2",
-      year : "1996",
-      price : 15.00
-    }
-  ]);
+  let title = req.query.title;
+
+  res.send(cds);
+
+  // if (title !== undefined){
+
+  //    res.send( {test : title});
+  // } else {
+  //   res.send([]);
+  // }
+});
+
+app.get('/cd/:id', (req, res) => {
+  let id = req.query.id;
+
+  res.send(cd);  
 });
 
 // Start the server

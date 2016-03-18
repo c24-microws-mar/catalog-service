@@ -1,6 +1,6 @@
 {
   "name": "catalog-service",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This is a catalog service",
   "author": "Andreas Helmberger <public@ahelmberger.de>",
   "license": "MIT",
