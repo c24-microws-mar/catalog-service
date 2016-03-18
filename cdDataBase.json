@@ -1,17 +1,162 @@
-[{
-	"artist": "The Offspring",
-	"artistId": "23a03e33-a603-404e-bcbf-2c00159d7067",
-	"album": "The Offspring",
-	"albumId": "2af14d71-4333-494a-a981-7701897e3f1c",
-	"date": "1989-03",
-	"price": 15.00,
-	"coverLink": "https://media.giphy.com/media/xTk9ZUb96JJueUfmCI/giphy.gif"
-}, {
-	"artist": "The Offspring",
-	"artistId": "23a03e33-a603-404e-bcbf-2c00159d7067",
-	"album": "The Offspring 2",
-	"albumId": "2af14d71-4333-494a-a981-7701897e3f1d",
-	"date": "1989-03",
-	"price": 13.00,
-	"coverLink": "https://media.giphy.com/media/xTk9ZUb96JJueUfmCI/giphy.gif"
-}]
+[
+    {
+        "album": "Home", 
+        "artist": "Tom Helsen", 
+        "price": 14, 
+        "albumId": "be112bcb-5ac9-4acb-a527-b35c3bc94502", 
+        "date": "2008", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Home", 
+        "artist": "The Veldman Brothers", 
+        "price": 14, 
+        "albumId": "a97561d9-5471-4982-a055-9d28bf94e8c1", 
+        "date": "2007", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Home", 
+        "artist": "Won Ton Ton", 
+        "price": 11, 
+        "albumId": "a533a685-1494-4264-a36b-6e44478a3963", 
+        "date": "1988", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Home", 
+        "artist": "Ryan Malcolm", 
+        "price": 15, 
+        "albumId": "a43a39bb-847e-464b-abb6-115a9d7a4197", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Home", 
+        "artist": "Dixie Chicks", 
+        "price": 14, 
+        "albumId": "7719395d-ff96-44e6-9c56-aaf20fac5fe5", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Home", 
+        "artist": "Seventhirty", 
+        "price": 13, 
+        "albumId": "12acd7c5-b3f8-4d1b-9ace-4d75eae4d251", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Home", 
+        "artist": "Synopsis", 
+        "price": 15, 
+        "albumId": "36db4f95-acb1-4e58-9c42-51f8cb0763ed", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Home", 
+        "artist": "Dodgy Scene", 
+        "price": 11, 
+        "albumId": "f7200dfa-a402-4828-bdac-03599b98172f", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Home", 
+        "artist": "Sexpod", 
+        "price": 13, 
+        "albumId": "7704769b-2476-406f-b7e1-38a5723c0239", 
+        "date": "1994-07-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Home", 
+        "artist": "Sevendust", 
+        "price": 11, 
+        "albumId": "fcdf23d9-7f88-4ef1-9c3b-ee94e47fee3c", 
+        "date": "1999-10-04", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Melanie Brown", 
+        "price": 15, 
+        "albumId": "ee894a3f-04e7-4c09-b747-830c9878c218", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Red Hot Chili Peppers", 
+        "price": 10, 
+        "albumId": "309c147f-e7a8-41b0-b06b-d0e167dd48e6", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "James Brown", 
+        "price": 15, 
+        "albumId": "47d2a567-2893-4036-a6f7-268247d7cf4d", 
+        "date": "1976", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "The Equators", 
+        "price": 15, 
+        "albumId": "5d5f8461-cdbc-4e36-ae7b-be3507aba418", 
+        "date": "2001-04-23", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Squirrel Nut Zippers", 
+        "price": 14, 
+        "albumId": "70fc4df9-1a86-4357-aac7-0694d4248aed", 
+        "date": "1996-06-04", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Willie Ninja", 
+        "price": 13, 
+        "albumId": "a7346268-88cf-4a9b-8643-0a0317423c38", 
+        "date": "1994", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Inna", 
+        "price": 10, 
+        "albumId": "3b481429-9be9-4850-ac81-a49fdef3b3dd", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "M.O", 
+        "price": 15, 
+        "albumId": "3719c6b3-74d5-48a0-b385-eb2fe90a4960", 
+        "date": "2013-07-14", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hot!", 
+        "artist": "Miami Black Palms", 
+        "price": 13, 
+        "albumId": "4558561c-a3d1-4ee0-ab65-65e50cd33823", 
+        "date": "2005", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hot", 
+        "artist": "Destra Garcia", 
+        "price": 11, 
+        "albumId": "42fa5a6d-fb41-45b4-a7fc-91eae6349647", 
+        "date": "2009-04-14", 
+        "coverLink": "lalalala"
+    }
+]
