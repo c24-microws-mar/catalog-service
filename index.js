@@ -39,12 +39,12 @@ app.get('/cd/:id', (req, res) => {
 
   let result =
     cds
-    .filter((cd) => {return cd.albumId === id});
+    .find((cd) => {return cd.albumId === id});
 
-  if (result.length !== 1) {
+  if (!result) {
     res.send([]);  
   } else {
-    res.send(result[0]);  
+    res.send(result);  
   }
 });
 // Start the server
