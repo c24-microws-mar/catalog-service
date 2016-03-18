@@ -1,162 +1,2618 @@
 [
     {
-        "album": "Home", 
-        "artist": "Tom Helsen", 
+        "album": "N.A.S.A.", 
+        "artist": "Futurecop!", 
         "price": 14, 
-        "albumId": "be112bcb-5ac9-4acb-a527-b35c3bc94502", 
-        "date": "2008", 
+        "albumId": "be34b6c7-03c8-4ebd-976b-54fd1441d0fb", 
+        "date": "2011-05-03", 
         "coverLink": "lalalala"
     }, 
     {
-        "album": "Home", 
-        "artist": "The Veldman Brothers", 
+        "album": "Na\u0161a stvar", 
+        "artist": "Miha Gu\u0161tin", 
         "price": 14, 
-        "albumId": "a97561d9-5471-4982-a055-9d28bf94e8c1", 
-        "date": "2007", 
+        "albumId": "b3baa3ba-e2d4-460c-8740-75c6373af914", 
+        "date": "2011", 
         "coverLink": "lalalala"
     }, 
     {
-        "album": "Home", 
-        "artist": "Won Ton Ton", 
+        "album": "NASA EP", 
+        "artist": "NASA", 
         "price": 11, 
-        "albumId": "a533a685-1494-4264-a36b-6e44478a3963", 
-        "date": "1988", 
+        "albumId": "fdd25690-7b82-470e-957d-93e7ed06912f", 
+        "date": "1992", 
         "coverLink": "lalalala"
     }, 
     {
-        "album": "Home", 
-        "artist": "Ryan Malcolm", 
-        "price": 15, 
-        "albumId": "a43a39bb-847e-464b-abb6-115a9d7a4197", 
-        "date": "1990-01", 
+        "album": "\u00d6ron n\u00e4sa", 
+        "artist": "L\u00f6gnhalsmottagningen", 
+        "price": 11, 
+        "albumId": "53e5d0ef-1915-4d17-9b7d-250c661180ae", 
+        "date": "2008-03-10", 
         "coverLink": "lalalala"
     }, 
     {
-        "album": "Home", 
-        "artist": "Dixie Chicks", 
+        "album": "Black Nasa", 
+        "artist": "Black Nasa", 
         "price": 14, 
-        "albumId": "7719395d-ff96-44e6-9c56-aaf20fac5fe5", 
-        "date": "1990-01", 
+        "albumId": "b0614434-ecc5-45a5-a8b3-a800b7289287", 
+        "date": "2002-09-17", 
         "coverLink": "lalalala"
     }, 
     {
-        "album": "Home", 
-        "artist": "Seventhirty", 
-        "price": 13, 
-        "albumId": "12acd7c5-b3f8-4d1b-9ace-4d75eae4d251", 
-        "date": "1990-01", 
-        "coverLink": "lalalala"
-    }, 
-    {
-        "album": "Home", 
-        "artist": "Synopsis", 
-        "price": 15, 
-        "albumId": "36db4f95-acb1-4e58-9c42-51f8cb0763ed", 
-        "date": "1990-01", 
-        "coverLink": "lalalala"
-    }, 
-    {
-        "album": "Home", 
-        "artist": "Dodgy Scene", 
-        "price": 11, 
-        "albumId": "f7200dfa-a402-4828-bdac-03599b98172f", 
-        "date": "1990-01", 
-        "coverLink": "lalalala"
-    }, 
-    {
-        "album": "Home", 
-        "artist": "Sexpod", 
-        "price": 13, 
-        "albumId": "7704769b-2476-406f-b7e1-38a5723c0239", 
-        "date": "1994-07-01", 
-        "coverLink": "lalalala"
-    }, 
-    {
-        "album": "Home", 
-        "artist": "Sevendust", 
-        "price": 11, 
-        "albumId": "fcdf23d9-7f88-4ef1-9c3b-ee94e47fee3c", 
-        "date": "1999-10-04", 
-        "coverLink": "lalalala"
-    }, 
-    {
-        "album": "Hot", 
-        "artist": "Melanie Brown", 
-        "price": 15, 
-        "albumId": "ee894a3f-04e7-4c09-b747-830c9878c218", 
-        "date": "1990-01", 
-        "coverLink": "lalalala"
-    }, 
-    {
-        "album": "Hot", 
-        "artist": "Red Hot Chili Peppers", 
+        "album": "Nasa muzyka", 
+        "artist": "Kapela Og\u00f3rki", 
         "price": 10, 
-        "albumId": "309c147f-e7a8-41b0-b06b-d0e167dd48e6", 
-        "date": "1990-01", 
+        "albumId": "99270e23-5722-4fba-9fab-54f49ef19f4a", 
+        "date": "2010-12-20", 
         "coverLink": "lalalala"
     }, 
     {
-        "album": "Hot", 
-        "artist": "James Brown", 
-        "price": 15, 
-        "albumId": "47d2a567-2893-4036-a6f7-268247d7cf4d", 
-        "date": "1976", 
+        "album": "Re\u010d na\u0161a", 
+        "artist": "N\u00e1zov Stavby", 
+        "price": 11, 
+        "albumId": "09b235a0-9751-4d5e-8953-6be1c034bff4", 
+        "date": "2003-03-15", 
         "coverLink": "lalalala"
     }, 
     {
-        "album": "Hot", 
-        "artist": "The Equators", 
-        "price": 15, 
-        "albumId": "5d5f8461-cdbc-4e36-ae7b-be3507aba418", 
-        "date": "2001-04-23", 
+        "album": "NASA Music", 
+        "artist": "Kid Cudi", 
+        "price": 12, 
+        "albumId": "7c0196c7-dc42-483c-9d2e-bfcf56b25ef7", 
+        "date": "2009", 
         "coverLink": "lalalala"
     }, 
     {
-        "album": "Hot", 
-        "artist": "Squirrel Nut Zippers", 
-        "price": 14, 
-        "albumId": "70fc4df9-1a86-4357-aac7-0694d4248aed", 
-        "date": "1996-06-04", 
-        "coverLink": "lalalala"
-    }, 
-    {
-        "album": "Hot", 
-        "artist": "Willie Ninja", 
-        "price": 13, 
-        "albumId": "a7346268-88cf-4a9b-8643-0a0317423c38", 
+        "album": "Nasa-Arab", 
+        "artist": "Coil vs. The Eskaton", 
+        "price": 10, 
+        "albumId": "a33a1b6b-e9e7-46e1-bb79-4806b5d875ec", 
         "date": "1994", 
         "coverLink": "lalalala"
     }, 
     {
-        "album": "Hot", 
-        "artist": "Inna", 
-        "price": 10, 
-        "albumId": "3b481429-9be9-4850-ac81-a49fdef3b3dd", 
-        "date": "1990-01", 
+        "album": "Na\u0161a stvar", 
+        "artist": "\u0160ank?!", 
+        "price": 14, 
+        "albumId": "9bf9d48f-5b2f-45dc-ad25-00b008760e1a", 
+        "date": "2015-05-05", 
         "coverLink": "lalalala"
     }, 
     {
-        "album": "Hot", 
-        "artist": "M.O", 
-        "price": 15, 
-        "albumId": "3719c6b3-74d5-48a0-b385-eb2fe90a4960", 
-        "date": "2013-07-14", 
+        "album": "nasa micro notvg EP", 
+        "artist": "normA", 
+        "price": 14, 
+        "albumId": "178f1ec4-cd48-48fc-a50b-95cedb4baca4", 
+        "date": "2007", 
         "coverLink": "lalalala"
     }, 
     {
-        "album": "Hot!", 
-        "artist": "Miami Black Palms", 
-        "price": 13, 
-        "albumId": "4558561c-a3d1-4ee0-ab65-65e50cd33823", 
+        "album": "Pobjeda je na\u0161a", 
+        "artist": "Bolesno Grinje", 
+        "price": 11, 
+        "albumId": "ee738a3c-6597-487a-b338-aa88eb7f8815", 
         "date": "2005", 
         "coverLink": "lalalala"
     }, 
     {
-        "album": "Hot", 
-        "artist": "Destra Garcia", 
+        "album": "NASA: The Mixtape", 
+        "artist": "SpaceGhostPurrp", 
+        "price": 15, 
+        "albumId": "be912e0d-2cd7-426e-b27c-2b5f9e007d6f", 
+        "date": "2010-09-13", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Na\u0161a hud\u017aba, \u010do. 1", 
+        "artist": "Various Artists", 
+        "price": 13, 
+        "albumId": "589e73a6-d3c9-4aba-8348-ce4bc5264350", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "\u00d6ga, n\u00e4sa, mun", 
+        "artist": "Dungen", 
+        "price": 13, 
+        "albumId": "18994df1-2149-4161-ac4f-11986a954c5e", 
+        "date": "2011-01-11", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Nasa Iyo Na Ang Lahat", 
+        "artist": "Sam Milby", 
+        "price": 15, 
+        "albumId": "1003637a-62dd-4a84-9d44-a76f2ee89046", 
+        "date": "2013-03", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Ne Damo Te Pismo Na\u0161a", 
+        "artist": "Vinko Coce", 
+        "price": 10, 
+        "albumId": "2a341db9-4602-43aa-8daf-35615f4f3d44", 
+        "date": "2008", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "NASA 25th Anniversary Commemorative Album", 
+        "artist": "The Ventures", 
+        "price": 14, 
+        "albumId": "a02f66a4-5cdc-41aa-aec9-a4519dcf4edd", 
+        "date": "1983-06", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "NASA Music 2: Space Dreams", 
+        "artist": "Kid Cudi", 
         "price": 11, 
-        "albumId": "42fa5a6d-fb41-45b4-a7fc-91eae6349647", 
-        "date": "2009-04-14", 
+        "albumId": "3502da75-6a42-4489-a044-c591b8b49cd5", 
+        "date": "2010", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Ljubav na\u0161a nek' te vodi", 
+        "artist": "Ljubi\u0161a Samard\u017ei\u0107", 
+        "price": 13, 
+        "albumId": "c091f6f0-7a95-49a9-926f-e922b8ba4a3e", 
+        "date": "2008", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Na\u0161a dejanja odmevajo v ve\u010dnost", 
+        "artist": "Tadej Vesenjak", 
+        "price": 13, 
+        "albumId": "5fd78e66-c542-457e-91fa-db3a58a1b24d", 
+        "date": "2014", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Nasa ulica u nebo se penje", 
+        "artist": "Apsolutno Romanticno", 
+        "price": 10, 
+        "albumId": "35eac2a5-c756-4e41-9bc9-950864babe21", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Space Sounds Music: NASA-Voyager Space Sounds", 
+        "artist": "Dr. Jeffrey Thompson", 
+        "price": 10, 
+        "albumId": "5ec00893-2e7c-4b46-bc69-e7cf23c97b1a", 
+        "date": "1990", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "The Dancefl-Horror: N.A.S.A. vs. I.N.R.I.", 
+        "artist": "T3CHN0PH0B1A", 
+        "price": 14, 
+        "albumId": "208e174b-5eab-4d2e-9c7e-7f19b147542c", 
+        "date": "2005", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Kamachi No Go Men Nasa Ep\"", 
+        "artist": "Various Artists", 
+        "price": 14, 
+        "albumId": "e90dd0f1-5a5a-47af-8eec-df20a8d511ec", 
+        "date": "2004", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Mythodea: Music for the NASA Mission: 2001 Mars Odyssey", 
+        "artist": "Vangelis", 
+        "price": 12, 
+        "albumId": "0b202baa-4dc0-47b3-8344-a1bad5ac9225", 
+        "date": "2001", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Mythodea: Music for the NASA Mission: 2001 Mars Odyssey", 
+        "artist": "Vangelis", 
+        "price": 10, 
+        "albumId": "ae28d7d8-e4eb-41ad-8277-465dbbbb586a", 
+        "date": "2001-09-17", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Afrika Bambaataa", 
+        "price": 10, 
+        "albumId": "e9ee7587-5515-44af-91ae-befe998d8f4a", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Messiah's Kiss", 
+        "price": 11, 
+        "albumId": "6a4a2810-d681-4981-8a6a-6e282a0c9dff", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Manilla Road", 
+        "price": 10, 
+        "albumId": "f6e84277-05e5-43ec-a03f-33936c6a8db1", 
+        "date": "1982-08", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Newsted", 
+        "price": 11, 
+        "albumId": "d6a12803-b5fd-4576-ad6b-af51807d7779", 
+        "date": "2013-01-08", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Han Degc", 
+        "price": 12, 
+        "albumId": "f56cb3e9-851a-4db4-af81-e5a150686ac0", 
+        "date": "2006", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Guns \u2019n\u2019 Wankers", 
+        "price": 12, 
+        "albumId": "d1541037-e0b8-4084-8717-85d73f4b4f4b", 
+        "date": "1994", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Newsted", 
+        "price": 10, 
+        "albumId": "87d4b328-6e9d-4f75-9e5b-3fd445121428", 
+        "date": "2013", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Technical Itch", 
+        "price": 11, 
+        "albumId": "cf7d8337-bc5f-4e8f-9c27-a8107b6be8d1", 
+        "date": "2007-04-02", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Afrika Bambaataa", 
+        "price": 13, 
+        "albumId": "df1a0ecd-7f9f-4b68-919d-538803b0acd5", 
+        "date": "2004-11", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Steve Stoll", 
+        "price": 12, 
+        "albumId": "0dbbfdfb-9ecb-43ac-946b-e0ae88cd9999", 
+        "date": "2001", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Various Artists", 
+        "price": 12, 
+        "albumId": "d8231c41-0a47-45ec-85c3-b859de2029c8", 
+        "date": "2001-01-29", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Brian Bromberg", 
+        "price": 12, 
+        "albumId": "0c6c335a-5c83-464c-9b59-7aebe3980f81", 
+        "date": "2005", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Annihilator", 
+        "price": 13, 
+        "albumId": "5faf2a2f-e21c-3d23-9139-13dbe15683ad", 
+        "date": "2007-04-16", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Annihilator", 
+        "price": 14, 
+        "albumId": "e72c8702-f809-33ea-b5d5-46d7ce44e942", 
+        "date": "2007-04-13", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Cubanate", 
+        "price": 10, 
+        "albumId": "52f77c64-c8a7-49c5-90a8-acbdc87a8a65", 
+        "date": "1994-06-02", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Preston Reed", 
+        "price": 15, 
+        "albumId": "a37ae336-8a1e-4632-b92b-c8cd0e64657e", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal!", 
+        "artist": "The Thing", 
+        "price": 15, 
+        "albumId": "e22c10dd-1106-4298-a390-0e052bad8f1b", 
+        "date": "2012-03", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal", 
+        "artist": "Black Asteroid", 
+        "price": 12, 
+        "albumId": "0709ac13-0337-4edf-b200-4e5c76311f9d", 
+        "date": "2014-04-21", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "MetaL MetaL", 
+        "artist": "Met\u00e1 Met\u00e1", 
+        "price": 15, 
+        "albumId": "d9a5432e-f099-4da3-879d-64338139b85d", 
+        "date": "2012", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "MetaL MetaL", 
+        "artist": "Met\u00e1 Met\u00e1", 
+        "price": 10, 
+        "albumId": "ae1a6c76-1c62-4843-8902-8e23178efd7a", 
+        "date": "2014-03-24", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "METAL METAL", 
+        "artist": "Met\u00e1 Met\u00e1", 
+        "price": 13, 
+        "albumId": "33d35246-3dce-4c20-8ff3-d2e627326a6c", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Hammer: Metal 2005", 
+        "artist": "Various Artists", 
+        "price": 11, 
+        "albumId": "ff892448-7c08-4035-b270-d2aeba9a0e8c", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Techno Metal, Nu Metal", 
+        "artist": "Various Artists", 
+        "price": 15, 
+        "albumId": "ff393b40-6503-44b6-b245-6495604c7bd2", 
+        "date": "2008", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal on Metal", 
+        "artist": "Anvil", 
+        "price": 10, 
+        "albumId": "8c6c5e81-76b3-3599-8932-b55b64dca023", 
+        "date": "2002-10-10", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal on Metal", 
+        "artist": "Aube", 
+        "price": 15, 
+        "albumId": "8dab7445-9b53-4f3b-8d6e-dd99e57e0e4d", 
+        "date": "2008", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal on Metal", 
+        "artist": "Anvil", 
+        "price": 13, 
+        "albumId": "904ba9e7-b40f-3239-a96a-c1a1bd2992ef", 
+        "date": "1990", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "M\u00e9tal de M\u00e9tal", 
+        "artist": "Aube", 
+        "price": 11, 
+        "albumId": "a16913f1-8939-46fc-97c3-c8a8b5051285", 
+        "date": "1996-09-16", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal on Metal", 
+        "artist": "Anvil", 
+        "price": 14, 
+        "albumId": "39467290-704e-4f0e-b804-9527c40d9695", 
+        "date": "1982", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Hammer: Battle Metal", 
+        "artist": "Various Artists", 
+        "price": 15, 
+        "albumId": "1894e1bf-b423-4a8c-afbc-c29938088aa9", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal on Metal: Finnish Underground Metal Compilation", 
+        "artist": "Various Artists", 
+        "price": 11, 
+        "albumId": "e2842ca9-dcf0-4d43-8180-9f991de4a86e", 
+        "date": "2005", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Hammer #249: Metal on Metal", 
+        "artist": "Various Artists", 
+        "price": 12, 
+        "albumId": "84415495-8d2f-4281-8203-d7e9a9ab2d7d", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Virgin Metal", 
+        "artist": "Let Me Crazy", 
+        "price": 11, 
+        "albumId": "fc20c4bb-7b4d-4939-83b0-4dd20f440964", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Mayhem", 
+        "artist": "Various Artists", 
+        "price": 11, 
+        "albumId": "2986ba6c-b666-4380-90d6-a4e78a409484", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Meltdown", 
+        "artist": "Various Artists", 
+        "price": 13, 
+        "albumId": "b0f942f3-baf9-4352-a5ee-cd301ecf2bcb", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Majesty", 
+        "artist": "Metal Majesty", 
+        "price": 14, 
+        "albumId": "177005f3-0eb0-4ee4-8334-ab12626c99cf", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Doubleshot: Metal", 
+        "artist": "Various Artists", 
+        "price": 14, 
+        "albumId": "074f053b-db02-4832-bef8-d4211320235e", 
+        "date": "2000", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Machine", 
+        "artist": "Midnight Sun", 
+        "price": 12, 
+        "albumId": "03316b58-e0f2-4e41-8235-2571bbca1f50", 
+        "date": "2001", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Mania", 
+        "artist": "Various Artists", 
+        "price": 11, 
+        "albumId": "d95307ee-a2e7-4970-9093-0cae209e8397", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Mongoloid Metal", 
+        "artist": "Amoebic Dysentery", 
+        "price": 10, 
+        "albumId": "95e97f01-0fb5-471d-81a3-b5938a496347", 
+        "date": "2002", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Gods", 
+        "artist": "Various Artists", 
+        "price": 15, 
+        "albumId": "e7138588-37bf-4e84-be9b-9703475e8c72", 
+        "date": "1995", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Heavy Metal", 
+        "artist": "Elmer Bernstein", 
+        "price": 11, 
+        "albumId": "4abb01f7-f06e-48b2-a23b-1f0b01d1e25a", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "WSIC: Metal", 
+        "artist": "Various Artists", 
+        "price": 11, 
+        "albumId": "8af76ce8-f980-4e61-b9ba-798221b41a27", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Sex Metal", 
+        "artist": "Ledernacken", 
+        "price": 15, 
+        "albumId": "cb382ea7-3d94-422e-bf23-d9e378c8f509", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Love Metal", 
+        "artist": "HIM", 
+        "price": 10, 
+        "albumId": "a1ad9835-172a-4792-9e38-c3f796c55a01", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Classic Metal", 
+        "artist": "Various Artists", 
+        "price": 11, 
+        "albumId": "b141e399-b3e1-4c8b-886a-c2670b6ca766", 
+        "date": "2003", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Molten Metal", 
+        "artist": "Various Artists", 
+        "price": 14, 
+        "albumId": "9308a471-0fa2-4a2c-8da9-50687e0e6d60", 
+        "date": "1990", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Drug Metal", 
+        "artist": "Hezzakya", 
+        "price": 12, 
+        "albumId": "04816b1a-3ccf-47d8-9783-f449e16a6a17", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Killers", 
+        "artist": "Various Artists", 
+        "price": 12, 
+        "albumId": "671eb4b6-0224-4234-a3e7-3c0d99a7e31c", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Slaves", 
+        "artist": "Mystery Blue", 
+        "price": 14, 
+        "albumId": "f5509456-1042-465a-8914-81b0553e0778", 
+        "date": "2003", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Dreams", 
+        "artist": "Various Artists", 
+        "price": 14, 
+        "albumId": "bd603ac8-8513-45cc-b38b-0c8b83eab453", 
+        "date": "1999-12-07", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal/Technology", 
+        "artist": "Winterlong", 
+        "price": 15, 
+        "albumId": "ffa90ccc-c93e-4ac0-9829-2552e50f4579", 
+        "date": "2006-01-20", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Habemus Metal", 
+        "artist": "Killers", 
+        "price": 15, 
+        "albumId": "004c95c4-ed32-481f-a2c7-cb39aeaba7cf", 
+        "date": "2002-11", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Attack", 
+        "artist": "Overdrive", 
+        "price": 13, 
+        "albumId": "15e6a558-f0a7-4d07-95c9-c47acc51c4ce", 
+        "date": "2004-01-12", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Thrash Metal", 
+        "artist": "Various Artists", 
+        "price": 11, 
+        "albumId": "9c6bd6f8-b1f3-43b9-b74c-e2cb253631a0", 
+        "date": "1989", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Battle Metal", 
+        "artist": "Turisas", 
+        "price": 15, 
+        "albumId": "cc580040-7e8b-45db-8c5a-00b84ca6e25f", 
+        "date": "2004", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Acoustic Metal", 
+        "artist": "Metallica", 
+        "price": 13, 
+        "albumId": "77ee7d6c-4ce6-4eef-98a7-5787551d9566", 
+        "date": "1997", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Demos", 
+        "artist": "Beck", 
+        "price": 15, 
+        "albumId": "7317db8d-0f8b-42b7-ab0a-9fa8cab8b5ad", 
+        "date": "1992", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Danger Metal", 
+        "artist": "SAINTS ANGER", 
+        "price": 15, 
+        "albumId": "87c8463f-25c6-4ae5-9da3-440866881df5", 
+        "date": "1985", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Black Metal", 
+        "artist": "Ascii.Disko", 
+        "price": 11, 
+        "albumId": "de608be4-60c4-3392-a1b5-f03702366384", 
+        "date": "2005-08", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Hurlant", 
+        "artist": "Misanthrope", 
+        "price": 14, 
+        "albumId": "449efe56-46ec-4571-91e0-573295651fcc", 
+        "date": "2005-09-12", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Health", 
+        "artist": "Quiet Riot", 
+        "price": 11, 
+        "albumId": "887de409-9bf3-4a20-8163-d2e627d965da", 
+        "date": "1983-03-11", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Death Metal", 
+        "artist": "Various Artists", 
+        "price": 15, 
+        "albumId": "79981aee-e570-4f38-8a87-34fe60493124", 
+        "date": "1984", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Christmas", 
+        "artist": "Various Artists", 
+        "price": 11, 
+        "albumId": "e9cd2be8-f036-4036-8b4b-b0773f958b99", 
+        "date": "1996-09-24", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Moon", 
+        "artist": "BLANKEY JET CITY", 
+        "price": 12, 
+        "albumId": "3b310969-6dc6-4181-bcf6-eb7cd92087ff", 
+        "date": "1993-12-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Rocks", 
+        "artist": "Various Artists", 
+        "price": 15, 
+        "albumId": "a2562d09-40c7-44b2-ba6f-9192d02bf3ef", 
+        "date": "2001-11-30", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Black Metal", 
+        "artist": "Ascii.Disko", 
+        "price": 13, 
+        "albumId": "42a6a20d-4cea-487f-8f56-df8ad13d06d7", 
+        "date": "2005-11", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Ballads", 
+        "artist": "Various Artists", 
+        "price": 10, 
+        "albumId": "92e2f462-9e39-4333-b277-737716d20e06", 
+        "date": "1988", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Precious Metal", 
+        "artist": "Various Artists", 
+        "price": 13, 
+        "albumId": "a019df89-8419-42f5-a1cc-33c3f9f4ce28", 
+        "date": "1989", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Over Metal", 
+        "artist": "Draconian", 
+        "price": 15, 
+        "albumId": "16c11762-abf3-4d7e-a272-311de2656c02", 
+        "date": "2003", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Ultimate Metal", 
+        "artist": "Mot\u00f6rhead", 
+        "price": 10, 
+        "albumId": "b6512d19-c47d-481c-9714-bffcedfc50ec", 
+        "date": "1995", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Queen", 
+        "artist": "Lee Aaron", 
+        "price": 15, 
+        "albumId": "7a821930-d4b2-4591-a72a-59cc6112803d", 
+        "date": "1984", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Law", 
+        "artist": "Majesty", 
+        "price": 12, 
+        "albumId": "a9d24516-0894-4384-92a4-cbfbd679ae21", 
+        "date": "2004", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Heart", 
+        "artist": "Accept", 
+        "price": 11, 
+        "albumId": "9c923ff9-a05b-4d53-8505-6c370f8710e4", 
+        "date": "1985", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Dance", 
+        "artist": "SPK", 
+        "price": 10, 
+        "albumId": "ed9f8ee4-0e94-4656-a47c-03db2ca8f25f", 
+        "date": "1983", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Dance", 
+        "artist": "SPK", 
+        "price": 11, 
+        "albumId": "1b323c4e-967f-36e4-bf24-3dd1c5e8469b", 
+        "date": "1983", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Dance", 
+        "artist": "SPK", 
+        "price": 11, 
+        "albumId": "08855f9f-35a5-365e-bec8-f81b8ce50b3c", 
+        "date": "1983", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dark Metal", 
+        "artist": "Bethlehem", 
+        "price": 15, 
+        "albumId": "f64a0f47-969e-4f03-9dd1-5bf290fe7ce0", 
+        "date": "1994", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dark Metal", 
+        "artist": "Bethlehem", 
+        "price": 10, 
+        "albumId": "3c57df41-0dce-3573-a6df-44f39aa2b17f", 
+        "date": "1997", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Love Metal", 
+        "artist": "HIM", 
+        "price": 14, 
+        "albumId": "f39e5a03-8474-4c6d-8f41-4e0a9889111d", 
+        "date": "2003-04-14", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Love Metal", 
+        "artist": "HIM", 
+        "price": 12, 
+        "albumId": "e6c521f1-b91d-49d1-ba06-9ff83969e73a", 
+        "date": "2003-04-14", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Discharge", 
+        "artist": "Destruction", 
+        "price": 10, 
+        "albumId": "68f15aad-b600-457a-9717-fd067911b11d", 
+        "date": "2003-09-22", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Angry Metal", 
+        "artist": "Rose Tattoo", 
+        "price": 13, 
+        "albumId": "97980e29-253f-4806-b0fc-478ce83ddb26", 
+        "date": "1993", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Rhythm", 
+        "artist": "Gary Numan", 
+        "price": 13, 
+        "albumId": "de51a302-41dc-48d3-aafe-30683ee35716", 
+        "date": "1999-09", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Rhythm", 
+        "artist": "Gary Numan", 
+        "price": 10, 
+        "albumId": "59b04e66-5333-46f0-bb4e-12f74868babf", 
+        "date": "1988-10", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Hits", 
+        "artist": "Ratt", 
+        "price": 14, 
+        "albumId": "49190c47-7754-48a8-b0fd-6112c2eb9fa8", 
+        "date": "2003", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Cold Metal", 
+        "artist": "Ambeon", 
+        "price": 14, 
+        "albumId": "4a4796b3-938d-43a8-bccf-1def255d6902", 
+        "date": "2001", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Warriors", 
+        "artist": "Novon", 
+        "price": 12, 
+        "albumId": "5813137c-3188-4563-835b-9171e0be523a", 
+        "date": "2004-11-26", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Magic", 
+        "artist": "Pantera", 
+        "price": 15, 
+        "albumId": "0003766f-36fc-4faf-ba51-358515dbebb9", 
+        "date": "1983-06-10", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Power Metal", 
+        "artist": "Pantera", 
+        "price": 14, 
+        "albumId": "8c086d0b-15b4-4eb6-9517-8e1ba86773a2", 
+        "date": "1988", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Church", 
+        "artist": "Metal Church", 
+        "price": 10, 
+        "albumId": "2f1f852b-40df-4b9d-b3ec-0b55d260c02f", 
+        "date": "1985", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Black Metal", 
+        "artist": "Venom", 
+        "price": 12, 
+        "albumId": "c56baf74-6338-4337-bdff-05e43c029f03", 
+        "date": "2002-03-11", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Jukebox", 
+        "artist": "Helloween", 
+        "price": 11, 
+        "albumId": "87a4744f-df78-468d-aaf2-ebc58aba59c9", 
+        "date": "1999-11-09", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Heavy Metal", 
+        "artist": "Elmer Bernstein", 
+        "price": 14, 
+        "albumId": "2da008dd-58cb-48f3-b2b5-9004ff2c80f4", 
+        "date": "2008-03-13", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "M\u00e9tal moumoute", 
+        "artist": "Au bonheur des dames", 
+        "price": 10, 
+        "albumId": "de663392-376b-4c06-9e3d-95e7892bdc87", 
+        "date": "2006", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Black Metal", 
+        "artist": "Venom", 
+        "price": 11, 
+        "albumId": "21171228-d8b9-468f-b5a9-bd333ac0f4be", 
+        "date": "2009", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Tender Metal", 
+        "artist": "Gwilym Gold", 
+        "price": 14, 
+        "albumId": "38988422-ce2b-49d9-9db3-591b4c0918db", 
+        "date": "2012-09-10", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Child", 
+        "artist": "RUST", 
+        "price": 14, 
+        "albumId": "66436230-a75b-4c0f-b392-f7fb4c7375bb", 
+        "date": "2010", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Warriors", 
+        "artist": "Manowar", 
+        "price": 15, 
+        "albumId": "3eb7fb48-3e87-4ef7-b7d0-f38ceb51443a", 
+        "date": "1992", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal V.2.0", 
+        "artist": "Various Artists", 
+        "price": 10, 
+        "albumId": "e0a28fa7-ba81-459d-988b-45c5ad8782cd", 
+        "date": "2012-11", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Metal Mania", 
+        "artist": "Various Artists", 
+        "price": 13, 
+        "albumId": "6f94ae20-fc6e-4ec7-b2c7-7ef7c5573196", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "hi-posi", 
+        "price": 15, 
+        "albumId": "2c79520f-acdf-4397-a483-5c29626ba972", 
+        "date": "1997-09", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Various Artists", 
+        "price": 15, 
+        "albumId": "7639de3b-b280-4903-88ee-fbe404e9ab02", 
+        "date": "1994", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Kindness", 
+        "price": 14, 
+        "albumId": "6af6e4c2-3f1b-4af4-aff9-89187ee8f345", 
+        "date": "2012-06", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "A Giant Dog", 
+        "price": 11, 
+        "albumId": "8f0b80e7-9c57-418c-84da-8d7fb0231146", 
+        "date": "2010-03", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Caspar Pound", 
+        "price": 14, 
+        "albumId": "e8c10a48-71d9-4f0d-9916-a13e7cac7d84", 
+        "date": "1994", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Patrick Wolf", 
+        "price": 15, 
+        "albumId": "01125948-ba3d-4e5d-ab77-c0aa8b7f1d3a", 
+        "date": "2011-06-20", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Patrick Wolf", 
+        "price": 15, 
+        "albumId": "ae81575c-9dcd-463d-99eb-4f0ceb50df61", 
+        "date": "2011-06-20", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Mist", 
+        "price": 12, 
+        "albumId": "ee9d09ad-b7bd-486f-ba8e-30cda99c17b2", 
+        "date": "2011-05-16", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Amanda Mair", 
+        "price": 15, 
+        "albumId": "17335a66-5f03-4bb3-a5ee-48b677560214", 
+        "date": "2011-06-07", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "The Psychedelic Furs", 
+        "price": 10, 
+        "albumId": "cb1d781f-9fed-43f3-811c-ba3012c6d4ea", 
+        "date": "1989", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Various Artists", 
+        "price": 10, 
+        "albumId": "0d058562-2110-47c8-b1e4-9423effd329b", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Orange 9usd", 
+        "price": 14, 
+        "albumId": "4124fd9c-bd20-4a29-93ab-f64b32862f23", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Sahlene", 
+        "price": 13, 
+        "albumId": "0cd306cf-ce5a-49b8-98bc-00178eb2c1ec", 
+        "date": "2000", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Young Buffalo", 
+        "price": 14, 
+        "albumId": "5cecf7e9-a29d-4c47-aa1b-1859c0d62f29", 
+        "date": "2015-03-03", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "We'll Make it Right", 
+        "price": 13, 
+        "albumId": "60d1d71c-efa8-4f27-b217-735d2f9456c3", 
+        "date": "2014-10-17", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Christopher Just", 
+        "price": 14, 
+        "albumId": "607894eb-6231-4fc5-b4af-4de0f27399e5", 
+        "date": "2002-12", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "A Giant Dog", 
+        "price": 11, 
+        "albumId": "032f9732-1d14-4b92-9c6f-631b7486fdef", 
+        "date": "2010-03-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "HOUSE", 
+        "artist": "\u8c37\u6751\u5fd7\u7a42", 
+        "price": 15, 
+        "albumId": "8f570d6f-3ee9-4825-b6d4-eda29f2daba1", 
+        "date": "2009-08-24", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Le Concorde", 
+        "price": 10, 
+        "albumId": "a3eb37db-44dd-47e1-a4b7-158698d6c995", 
+        "date": "2010", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Young Buffalo", 
+        "price": 13, 
+        "albumId": "ebef8679-b9f1-481f-9e80-e63c7eaeefd5", 
+        "date": "2015-02-17", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "OVERWERK", 
+        "price": 15, 
+        "albumId": "8d5d2768-5ecb-48a9-ba77-fa6eb65eb5eb", 
+        "date": "2014-11-03", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House", 
+        "artist": "Global Goon", 
+        "price": 11, 
+        "albumId": "90fb54ad-ceb5-406a-9e0d-27fbfc323e1e", 
+        "date": "2015-09-29", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "The House Of House", 
+        "artist": "Cherry Moon Trax", 
+        "price": 11, 
+        "albumId": "ae2c7e78-368d-415b-a0a0-456a1acc522c", 
+        "date": "2002", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House, Funky House", 
+        "artist": "Various Artists", 
+        "price": 10, 
+        "albumId": "0d24b212-8526-4760-a34a-d6a3c984d2ff", 
+        "date": "2008", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House of House", 
+        "artist": "Lady Tom", 
+        "price": 12, 
+        "albumId": "ec8ba478-c5ce-4931-8d7b-260f910092fb", 
+        "date": "2000", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Kontor: House of House", 
+        "artist": "Various Artists", 
+        "price": 11, 
+        "albumId": "a1e9b3b2-665a-4118-92c0-69729e8447db", 
+        "date": "2006-09-29", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Erotic House", 
+        "artist": "Various Artists", 
+        "price": 10, 
+        "albumId": "94c10375-121a-4679-8fa3-7459f7703369", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House Music", 
+        "artist": "Eddie Amador", 
+        "price": 15, 
+        "albumId": "aae0bd14-9003-4289-b1ab-eb73bca60aaf", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Albert's House", 
+        "artist": "Chet Baker", 
+        "price": 11, 
+        "albumId": "6d80b1da-13a9-4209-b619-b2c3c7b1d88f", 
+        "date": "1969", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House Blessing", 
+        "artist": "Jet Black Factory", 
+        "price": 14, 
+        "albumId": "e36ef881-1d4c-47d6-9d4f-1ca3b2251f72", 
+        "date": "1990", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Open House", 
+        "artist": "Himlav\u00e4sen", 
+        "price": 13, 
+        "albumId": "dc850076-48a5-4aeb-b4aa-56a3e66dd0ce", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Platinum House", 
+        "artist": "Various Artists", 
+        "price": 10, 
+        "albumId": "1fd75af5-9ed1-43cf-aeb0-548a93fc754f", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Frankie\u2019s House", 
+        "artist": "Jeff Beck", 
+        "price": 10, 
+        "albumId": "276a806e-b0d7-40f3-85c6-2cc5f7cab247", 
+        "date": "1992", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Marshall\u2019s House", 
+        "artist": "John Squire", 
+        "price": 14, 
+        "albumId": "ac6d9fd0-e90a-468a-91ce-b8588d226b53", 
+        "date": "2004-02-02", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Kiln House", 
+        "artist": "Fleetwood Mac", 
+        "price": 13, 
+        "albumId": "38d1e49b-4b60-41b6-b56b-f2884fdc4017", 
+        "date": "1970-09-18", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Full House", 
+        "artist": "Frankie Miller", 
+        "price": 13, 
+        "albumId": "b4b1fa84-ce48-4e23-bea4-333b24b226c6", 
+        "date": "1999", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Cleaning House", 
+        "artist": "Saffire - The Uppity Blues Women", 
+        "price": 12, 
+        "albumId": "6577374a-e0ae-4cb0-bc6c-189b9c2e5fcc", 
+        "date": "1996", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Aoi House", 
+        "artist": "J Brothers", 
+        "price": 15, 
+        "albumId": "6c96cee4-1eb5-4c56-951d-956d4f7a347e", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "300% House", 
+        "artist": "Various Artists", 
+        "price": 13, 
+        "albumId": "7545c1b3-0fbf-4479-9b8f-1a5aa4c4a525", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "The House", 
+        "artist": "1994", 
+        "price": 13, 
+        "albumId": "3157c200-97a7-4c16-82c4-e36c5654731a", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Strange House", 
+        "artist": "The Horrors", 
+        "price": 13, 
+        "albumId": "80bc255a-cac0-4461-809e-fa3007d3024f", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House Bomba", 
+        "artist": "House Bomba", 
+        "price": 11, 
+        "albumId": "b69f9835-ee8f-4730-bb56-b60b6ed54f96", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House 2007", 
+        "artist": "Various Artists", 
+        "price": 10, 
+        "albumId": "072aab2c-5c51-4072-a60a-cb33b6a20dca", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Open House", 
+        "artist": "Open House", 
+        "price": 14, 
+        "albumId": "751ebba2-5653-46fe-835a-35b649d8909e", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House Music", 
+        "artist": "Waulk Electrik", 
+        "price": 15, 
+        "albumId": "1b9854ec-6ba9-4ab6-b75a-0181eb5bcf8d", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Gay House", 
+        "artist": "Go Home Productions", 
+        "price": 10, 
+        "albumId": "b3c513b1-d822-4dd3-8fd8-252e26c8eb1e", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House Afire", 
+        "artist": "Various Artists", 
+        "price": 15, 
+        "albumId": "e62c5478-3dd3-426f-b165-5b8aec9c0e87", 
+        "date": "1989", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House Stream", 
+        "artist": "Various Artists", 
+        "price": 11, 
+        "albumId": "3631b219-ffa5-4ba5-86f1-0b53be45a2f6", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Open House", 
+        "artist": "Lorie Line", 
+        "price": 15, 
+        "albumId": "4a95e89b-ed05-400e-9e13-0ab5fd69070b", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Praise House", 
+        "artist": "Hypersonic", 
+        "price": 15, 
+        "albumId": "20fa6a03-926d-45f1-bbe0-e4143a4d8acd", 
+        "date": "1996", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Astronaut House", 
+        "artist": "Beatnik Filmstars", 
+        "price": 14, 
+        "albumId": "97a7e4d0-bcbe-48b1-924d-a24d6bbd98b6", 
+        "date": "1994", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Bleak House", 
+        "artist": "Terje Rypdal", 
+        "price": 14, 
+        "albumId": "e1c8f724-6dad-4991-8e27-93ad1caeb8a4", 
+        "date": "2003-10-02", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Susan's House", 
+        "artist": "EELS", 
+        "price": 14, 
+        "albumId": "ff18d789-7974-41c2-aabb-53c2821ec68e", 
+        "date": "1997", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Susan's House", 
+        "artist": "EELS", 
+        "price": 14, 
+        "albumId": "8d28fe01-855e-45ef-ad5b-25a9314a138d", 
+        "date": "1997", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Susan's House", 
+        "artist": "EELS", 
+        "price": 13, 
+        "albumId": "a79c639e-6de6-45c0-99af-5494cb8e7a1c", 
+        "date": "1997", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Cold House", 
+        "artist": "Hood", 
+        "price": 14, 
+        "albumId": "4a17dd9d-11f5-428f-b2ca-73be48f54837", 
+        "date": "2001-11-12", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Pure House", 
+        "artist": "Various Artists", 
+        "price": 14, 
+        "albumId": "331fbaa6-8ac1-448d-a9f4-af88a3662103", 
+        "date": "2005", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Full House", 
+        "artist": "Wes Montgomery", 
+        "price": 11, 
+        "albumId": "fc118797-08e2-4575-8b94-1598ee23ff46", 
+        "date": "1987", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Skribble's House", 
+        "artist": "DJ Skribble", 
+        "price": 14, 
+        "albumId": "53907647-4c5a-4176-a971-cd8a015b9026", 
+        "date": "2001-12-11", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hot House", 
+        "artist": "Bruce Hornsby", 
+        "price": 11, 
+        "albumId": "48d6ca23-b15a-41fd-8f9f-79a633f9c7d0", 
+        "date": "1995-07-18", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Happy House", 
+        "artist": "Siouxsie and the Banshees", 
+        "price": 12, 
+        "albumId": "d5e67126-eef2-4501-93b0-e3f696d1d880", 
+        "date": "1980-03-07", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Happy House", 
+        "artist": "Siouxsie and the Banshees", 
+        "price": 10, 
+        "albumId": "d905dca0-8835-3b00-84ab-9675da4ce86b", 
+        "date": "1980", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hit House", 
+        "artist": "Henning St\u00e6rk", 
+        "price": 12, 
+        "albumId": "96a7be88-48f8-4a94-be21-ff1318f41031", 
+        "date": "2000-03-03", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House Loop", 
+        "artist": "Frankie Bones", 
+        "price": 11, 
+        "albumId": "33f022ec-df48-4373-bd4b-2319324eedeb", 
+        "date": "1996-07-23", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Progressive House", 
+        "artist": "Various Artists", 
+        "price": 15, 
+        "albumId": "b1764b25-ea94-4135-a34c-d7d778c3c7ba", 
+        "date": "2001-05-28", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Victory House", 
+        "artist": "Baked Alaska", 
+        "price": 13, 
+        "albumId": "992af49f-48e8-4d74-9fe6-ab9b2e0440e8", 
+        "date": "2005-10-24", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Rocket House", 
+        "artist": "Chris Whitley", 
+        "price": 10, 
+        "albumId": "49eac1db-182a-40f7-8993-db13ce355b25", 
+        "date": "2001-06-05", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Light House", 
+        "artist": "Kim Carnes", 
+        "price": 12, 
+        "albumId": "6948a9c4-c7d5-4120-81a5-124a519ffdf4", 
+        "date": "1986-05", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "My House", 
+        "artist": "Borderlands of Harmony", 
+        "price": 14, 
+        "albumId": "7c566025-0e1f-434f-a6c5-805803f99643", 
+        "date": "1996", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Rough House", 
+        "artist": "John Scofield", 
+        "price": 10, 
+        "albumId": "b13e4762-9af7-4f55-b520-0e66a54e09ae", 
+        "date": "1978", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Drink House", 
+        "artist": "Macavine Hayes", 
+        "price": 10, 
+        "albumId": "d2f86ebb-ad18-4e07-9fdf-32c7e5213384", 
+        "date": "2005", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Haunted House", 
+        "artist": "[unknown]", 
+        "price": 14, 
+        "albumId": "c866ee4f-49a1-447a-8cb8-0848f77a6d6b", 
+        "date": "2005", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Fun House", 
+        "artist": "The Stooges", 
+        "price": 13, 
+        "albumId": "68ee7490-8776-4200-9ef1-d6553eb8ba16", 
+        "date": "1970-12", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House Arrest", 
+        "artist": "Ariel Pink\u2019s Haunted Graffiti", 
+        "price": 13, 
+        "albumId": "8186dc83-c885-4dcc-a4b0-3935c79c496c", 
+        "date": "2002", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Lonely House", 
+        "artist": "Grammatrain", 
+        "price": 14, 
+        "albumId": "2c83c457-033a-45b0-8eab-3b6e22d4ee8b", 
+        "date": "1995", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House Drop", 
+        "artist": "SCSI-9", 
+        "price": 10, 
+        "albumId": "d8c1110a-80cc-4b8c-81e3-fd750fbce045", 
+        "date": "2000", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Rit's House", 
+        "artist": "Lee Ritenour", 
+        "price": 15, 
+        "albumId": "7d83fc42-be56-4d60-8553-6d9226446ff4", 
+        "date": "2002-08-27", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Paper House", 
+        "artist": "Foolproof", 
+        "price": 11, 
+        "albumId": "e7342e4f-0641-4227-b6a3-84c78b398003", 
+        "date": "2004", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Animal House", 
+        "artist": "Angie Martinez", 
+        "price": 14, 
+        "albumId": "82681653-a342-47e1-874c-20a51407d5b6", 
+        "date": "2002-08-20", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Crowded House", 
+        "artist": "Crowded House", 
+        "price": 15, 
+        "albumId": "c5d1f90f-aebd-411d-97b0-675bd9f6bbfa", 
+        "date": "1986-06", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Crowded House", 
+        "artist": "Crowded House", 
+        "price": 14, 
+        "albumId": "9666e22c-0a15-4402-a879-7191c9c6be68", 
+        "date": "1987", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Emma's House", 
+        "artist": "The Field Mice", 
+        "price": 15, 
+        "albumId": "f26b5d7b-b89f-4393-925c-78c551695394", 
+        "date": "1988-12", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House Tornado", 
+        "artist": "Throwing Muses", 
+        "price": 14, 
+        "albumId": "d50d6fb5-e97d-4359-a157-aad9bde1e1ed", 
+        "date": "1988-03-25", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Country House", 
+        "artist": "Blur", 
+        "price": 15, 
+        "albumId": "704457ff-d3b4-4ad3-9c44-70433d8f5c5a", 
+        "date": "1995-08-14", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Country House", 
+        "artist": "Blur", 
+        "price": 14, 
+        "albumId": "a3c1c95d-18c7-4212-89f3-b292e7f422ea", 
+        "date": "1995-08-14", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Full House", 
+        "artist": "John Farnham", 
+        "price": 11, 
+        "albumId": "e75b8915-6aa9-46cc-b649-a24c4119091e", 
+        "date": "1991-11-04", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Hot House", 
+        "artist": "Steve Lacy", 
+        "price": 15, 
+        "albumId": "7e71d60a-c4fb-4fe3-891f-32fb30c480f6", 
+        "date": "1991", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Road House", 
+        "artist": "Michael Kamen", 
+        "price": 10, 
+        "albumId": "295ef6c5-d886-46aa-8970-8936802cf351", 
+        "date": "2012-01-20", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Tracy's House", 
+        "artist": "The Trees", 
+        "price": 14, 
+        "albumId": "84482483-2ce1-47d8-a24c-1819dd0d442e", 
+        "date": "2011-03-14", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Our House", 
+        "artist": "Madness", 
+        "price": 11, 
+        "albumId": "b23cc1ce-efb9-4cdd-9938-3d84196ecbf9", 
+        "date": "1992", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Trap House", 
+        "artist": "Gucci Mane", 
+        "price": 10, 
+        "albumId": "56739aff-bd8f-40ef-9b44-09d3f0d1320e", 
+        "date": "2005-05-24", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Cerretta's House", 
+        "artist": "Calima Shatiday", 
+        "price": 15, 
+        "albumId": "97ab3651-aba9-4228-9ecc-a1d706babc26", 
+        "date": "2010-03-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House Music", 
+        "artist": "Paul Anthony & ZXX", 
+        "price": 15, 
+        "albumId": "43f44895-c2ae-40f2-9efe-d9155608c62f", 
+        "date": "2009-05-05", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Alms House", 
+        "artist": "Capleton", 
+        "price": 13, 
+        "albumId": "0cde2593-7b76-4275-b26a-416c66b56310", 
+        "date": "1993", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Alms House", 
+        "artist": "Capleton", 
+        "price": 13, 
+        "albumId": "0f04b502-0554-3c7c-b4bd-da8a21789752", 
+        "date": "1993", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Natural House", 
+        "artist": "Various Artists", 
+        "price": 13, 
+        "albumId": "d8d6ddf9-5a2f-4393-85a1-3d4e87e1fc09", 
+        "date": "2002", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "House\u2606Disney", 
+        "artist": "Various Artists", 
+        "price": 12, 
+        "albumId": "14819760-5756-4d06-9817-3e934a97aa77", 
+        "date": "2009-01-28", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Headphone House", 
+        "artist": "Phil Asher", 
+        "price": 14, 
+        "albumId": "ef330492-f3d3-4123-9ee8-5ec1f0c8e897", 
+        "date": "2002-07-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Playing House", 
+        "artist": "Active Child", 
+        "price": 14, 
+        "albumId": "868e1cb5-1b26-4163-915b-b07c2c9058b7", 
+        "date": "2011-07-05", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Crowded House", 
+        "artist": "Crowded House", 
+        "price": 15, 
+        "albumId": "49e884b5-3a96-423b-b12f-f67bf939d5dc", 
+        "date": "1986", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Gary Numan", 
+        "price": 14, 
+        "albumId": "3c12933b-ed26-4648-bcc8-22334ac73098", 
+        "date": "1981-09-04", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Gary Numan", 
+        "price": 10, 
+        "albumId": "c0a25970-1d48-43c4-a19f-26ea8473e8a6", 
+        "date": "1999-11-16", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Sherman", 
+        "price": 14, 
+        "albumId": "9bc6954d-b0a8-4797-b820-46295be05830", 
+        "date": "1992", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Rebecca & Fiona", 
+        "price": 12, 
+        "albumId": "f6b79b8a-e759-48e6-9d15-f8ec0a2881c1", 
+        "date": "2012-06", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Danko Jones", 
+        "price": 10, 
+        "albumId": "8a114dfb-d6cd-4e6d-9784-7d2a756a5387", 
+        "date": "2004-03-31", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Skryptcha", 
+        "price": 12, 
+        "albumId": "7cc3b3e7-5d99-4fb9-a8d1-59ed9a5e3c35", 
+        "date": "2012-06-29", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "X-Fade", 
+        "price": 14, 
+        "albumId": "b4609e20-d0d6-47fe-94f7-ef11d9f0b78f", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Apollo", 
+        "price": 13, 
+        "albumId": "186003b3-bdbd-47ed-8fb4-64f9bee298e2", 
+        "date": "2002-12-09", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "DANCE", 
+        "artist": "\u6d5c\u7530\u7701\u543e", 
+        "price": 11, 
+        "albumId": "def2f56b-5cfc-4052-b6ab-064cf03471c4", 
+        "date": "1984-08-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Paul Motian Trio", 
+        "price": 15, 
+        "albumId": "85669466-ae63-4049-9882-69f7198eb9bd", 
+        "date": "1978", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Tal", 
+        "price": 12, 
+        "albumId": "50eaaeff-c49b-4709-a0ef-69fe5ab6e30a", 
+        "date": "2013-05-27", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Sliders", 
+        "price": 10, 
+        "albumId": "fb327146-fd66-4864-82dc-16e5a1cc409b", 
+        "date": "2001-11", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance!", 
+        "artist": "Acid House Kings", 
+        "price": 14, 
+        "albumId": "5e7a6076-62fa-4186-82db-1cc0e822687c", 
+        "date": "2013", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "L\u00e9o", 
+        "price": 13, 
+        "albumId": "1005f5c5-b669-4864-955d-83d88318dc1d", 
+        "date": "2003-05-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "The Brilliant Things", 
+        "price": 15, 
+        "albumId": "8e9afaa3-cae1-4ed9-9ddf-7a1580d03b10", 
+        "date": "2011-12-25", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Blowzabella", 
+        "price": 10, 
+        "albumId": "7df5fea4-b14f-4bbe-aca2-03cbe05a62b2", 
+        "date": "2010", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Gary Numan", 
+        "price": 14, 
+        "albumId": "ade22108-0f41-35af-b32d-bb3a34fb27a2", 
+        "date": "1981", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Gary Numan", 
+        "price": 15, 
+        "albumId": "ef8c1e93-833e-3552-ba0f-b685ece4b403", 
+        "date": "1981", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Gary Numan", 
+        "price": 12, 
+        "albumId": "1abf1116-d0f8-371e-82f1-5c5486fc759d", 
+        "date": "1981", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Gary Numan", 
+        "price": 13, 
+        "albumId": "51451374-b2ae-39d0-be2d-3b12a2bd3108", 
+        "date": "1981", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Sequential One", 
+        "price": 15, 
+        "albumId": "5b22fa4c-e1d8-481c-ab52-ca7b754c2640", 
+        "date": "1995", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Daylight", 
+        "price": 10, 
+        "albumId": "d95300a6-60e9-4605-8571-5bc39622a12a", 
+        "date": "1997", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance!", 
+        "artist": "Dance Nation", 
+        "price": 11, 
+        "albumId": "8a9e36a8-d1c7-463b-815d-a44664d6efe0", 
+        "date": "2002-06-17", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Lissa Schneckenburger", 
+        "price": 14, 
+        "albumId": "d133048f-0103-4151-bb97-0a6c2eb81343", 
+        "date": "2010-09-08", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "D.A.N.C.E.", 
+        "artist": "Justice", 
+        "price": 14, 
+        "albumId": "587a702e-acf6-418b-b034-053080ac7eea", 
+        "date": "2007", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Various Artists", 
+        "price": 12, 
+        "albumId": "9d5e2565-37d5-480f-ab12-ce3ebefc12df", 
+        "date": "1995", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Medcab", 
+        "price": 14, 
+        "albumId": "9f1faa51-1b96-4491-9316-f53ca197e4bc", 
+        "date": "2005-11-14", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Medcab", 
+        "price": 13, 
+        "albumId": "63ce4c72-c6d1-423d-bb49-a72b79856063", 
+        "date": "2005-11-14", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Medcab", 
+        "price": 11, 
+        "albumId": "f862a5fa-ccbe-4103-93d5-4cf9fb9d9671", 
+        "date": "2005-11-14", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Apollo", 
+        "price": 12, 
+        "albumId": "3c571f15-7924-4fe8-85a1-29f82465a05a", 
+        "date": "2001", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "D.A.N.C.E", 
+        "artist": "Justice", 
+        "price": 15, 
+        "albumId": "35b808f9-b3a5-3fc5-b7fb-3411bda9d432", 
+        "date": "2007", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "D.A.N.C.E", 
+        "artist": "Justice", 
+        "price": 15, 
+        "albumId": "d26810c1-fa21-3beb-9748-9342727fe3f6", 
+        "date": "2007", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Keller Williams", 
+        "price": 10, 
+        "albumId": "dba2bd45-8e89-4446-a387-953699267b18", 
+        "date": "2003", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "The Egyptian Lover", 
+        "price": 15, 
+        "albumId": "b8895614-4f69-4b53-a1fc-6cb994e995a1", 
+        "date": "1985", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Robert Luczak", 
+        "price": 12, 
+        "albumId": "6a4e4da1-2cea-4c95-815e-d6255f2a225f", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Matt Foster", 
+        "price": 14, 
+        "albumId": "4a875a00-8ab8-4f95-8c53-99f803432837", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Various Artists", 
+        "price": 10, 
+        "albumId": "50f9dbbb-4b30-44a6-b6dc-e04a5a5f6cf9", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "mO Body", 
+        "price": 14, 
+        "albumId": "d675bc7d-c37b-4ef7-9ad0-823ebb0dcc70", 
+        "date": "2009", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "D.A.N.C.E.", 
+        "artist": "Justice", 
+        "price": 13, 
+        "albumId": "5c771545-ecb4-462d-9bd4-066e08e32899", 
+        "date": "2008-02-19", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Silent Sphere", 
+        "price": 13, 
+        "albumId": "76053c04-c6aa-4296-8044-60a781abf683", 
+        "date": "2004", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "SaraLee", 
+        "price": 15, 
+        "albumId": "77859399-7e73-4d95-9c74-5ef1157b5c47", 
+        "date": "2005-11-16", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "D.A.N.C.E", 
+        "artist": "Justice", 
+        "price": 13, 
+        "albumId": "ba86eb31-954d-47b5-bad0-8b6dceebe842", 
+        "date": "2007", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "D.A.N.C.E", 
+        "artist": "Justice", 
+        "price": 13, 
+        "albumId": "7322caea-2b70-3e79-af02-8cbad5536721", 
+        "date": "2007-04-30", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "D.A.N.C.E", 
+        "artist": "Justice", 
+        "price": 12, 
+        "albumId": "d747c7a5-8036-44ba-b41e-fa7e0625fa74", 
+        "date": "2007-04-23", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance!", 
+        "artist": "Goleo VI", 
+        "price": 15, 
+        "albumId": "2daf7cc2-1e73-4a0d-b40b-951f3a54d658", 
+        "date": "2006-04-28", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "dance", 
+        "artist": "\u5c0f\u677e\u672a\u6b69", 
+        "price": 10, 
+        "albumId": "c2d943da-c499-45e7-8da0-95fe799f87e6", 
+        "date": "2002-05-29", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Patrick Fitzsimmons", 
+        "price": 10, 
+        "albumId": "684c2922-1c7b-4711-bfba-fee3d06083f5", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Brian Thomas", 
+        "price": 15, 
+        "albumId": "22e53c3d-40ad-44cc-b97b-11d35b1af2be", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Xuxa", 
+        "price": 12, 
+        "albumId": "1efafed8-1be9-4437-ab5d-9af249af5494", 
+        "date": "1996", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Apollo", 
+        "price": 12, 
+        "albumId": "0f702f85-6c6f-421f-9b00-78771fa0c90f", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Danc\u00ea", 
+        "artist": "Tulipa Ruiz", 
+        "price": 15, 
+        "albumId": "43fbfa6f-0f22-4886-83c9-cd6cb6472830", 
+        "date": "2015-05-05", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Pure Prairie League", 
+        "price": 10, 
+        "albumId": "c4623f17-666a-4f02-8543-6c1f27eb655a", 
+        "date": "1976", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance!", 
+        "artist": "The Cherry Blues Project", 
+        "price": 15, 
+        "albumId": "7b45dc36-05ec-498c-b2dd-bda01c978458", 
+        "date": "2001-11-15", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Beamen", 
+        "price": 14, 
+        "albumId": "f02a8eed-1164-44f7-b268-aef1f23cb9b2", 
+        "date": "2014-09-08", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance!", 
+        "artist": "Renaissonics", 
+        "price": 15, 
+        "albumId": "5277cd41-7292-4a61-b897-8ba4c79edacd", 
+        "date": "1998", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "La Resistencia D' M\u00e9xico", 
+        "price": 10, 
+        "albumId": "b365f84a-0374-48ee-b365-52c9dbe983c8", 
+        "date": "2010", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "D.A.N.C.E.", 
+        "artist": "Kombii", 
+        "price": 12, 
+        "albumId": "98126982-2799-40c3-a128-dc8d620baf3f", 
+        "date": "2008", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "\u56db\u4eba\u56c3\u5b50", 
+        "price": 12, 
+        "albumId": "11d35824-078e-4def-9a96-4f6f07e88ea7", 
+        "date": "2002-12-21", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Cloak", 
+        "price": 12, 
+        "albumId": "829d5eca-fea9-4afc-a12e-e44c1e3cf3a1", 
+        "date": "2014-12", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "Kamal Abdul Alim", 
+        "price": 12, 
+        "albumId": "9d21fb21-542f-470f-8bd4-5307c21f7edb", 
+        "date": "1988", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance", 
+        "artist": "S\u00e9macordes", 
+        "price": 10, 
+        "albumId": "45be6f8f-6e7a-429e-9005-a8ca331cf6f6", 
+        "date": "2015-09-17", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance", 
+        "artist": "Fall Out Boy", 
+        "price": 12, 
+        "albumId": "f7f6f650-eb9a-4bd9-894d-56b905e27b1f", 
+        "date": "2006", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Dance", 
+        "artist": "MudD Gang", 
+        "price": 14, 
+        "albumId": "041f7389-a84c-4004-abb1-c9b7c717ea2e", 
+        "date": "2012-12-03", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance", 
+        "artist": "Charisse", 
+        "price": 14, 
+        "albumId": "0678b624-22e0-437b-99bf-bcced3362db3", 
+        "date": "1999-07-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Dance", 
+        "artist": "Bappi Lahiri", 
+        "price": 10, 
+        "albumId": "c7e9026f-33b3-48dc-bfe5-742f43809538", 
+        "date": "1987", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance", 
+        "artist": "Fall Out Boy", 
+        "price": 13, 
+        "albumId": "674859d2-0b11-46bf-b017-8dc47c283650", 
+        "date": "2006", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance", 
+        "artist": "Fall Out Boy", 
+        "price": 14, 
+        "albumId": "7deae847-1efe-4445-be87-efe973d05e1c", 
+        "date": "2006-04-17", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance", 
+        "artist": "Fall Out Boy", 
+        "price": 13, 
+        "albumId": "97dc15f0-bf41-4ae0-afcc-633bcd7be2af", 
+        "date": "2006-04-17", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance", 
+        "artist": "Deskee", 
+        "price": 15, 
+        "albumId": "7496b35c-d3b6-4602-b6a4-70dc45ed4c55", 
+        "date": "1990", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance", 
+        "artist": "W\u00fcrffel", 
+        "price": 13, 
+        "albumId": "86a175ff-c614-4349-95fb-0a768fb8db72", 
+        "date": "2015-06-17", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance, Dance!", 
+        "artist": "Beats and Styles", 
+        "price": 15, 
+        "albumId": "cad23542-4503-465b-9e73-88d4f9d4a95a", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Dance Dance", 
+        "artist": "The Emeralds", 
+        "price": 15, 
+        "albumId": "cd6ffb48-61a5-4f56-9f91-b6e6130a7e22", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance, Dance", 
+        "artist": "James Last", 
+        "price": 15, 
+        "albumId": "3b1d5fbd-683d-4905-b283-d0c662e51a87", 
+        "date": "1988", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Dance Dance", 
+        "artist": "Geoff Love's Big Disco Sound", 
+        "price": 11, 
+        "albumId": "e138601c-3c59-47ad-b388-f5f5687d8738", 
+        "date": "1976", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance, Dance", 
+        "artist": "The Beach Boys", 
+        "price": 15, 
+        "albumId": "874d46b3-3a89-47a4-9bc5-1e8f586ffff0", 
+        "date": "1964-11", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Dance Dance", 
+        "artist": "Various Artists", 
+        "price": 10, 
+        "albumId": "11582321-3d4f-476f-b7c3-9c0fad461d4a", 
+        "date": "1995-04-16", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance, Dance", 
+        "artist": "Fruit Loops", 
+        "price": 11, 
+        "albumId": "1a18335a-7f21-4e68-a2b4-dc5efc9c0124", 
+        "date": "1995", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance! Dance! Dance!", 
+        "artist": "Tanuki Suit", 
+        "price": 13, 
+        "albumId": "1fc78f50-87cd-46a3-9a46-1036848622c7", 
+        "date": "2013-01-13", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance, Dance", 
+        "artist": "James Last", 
+        "price": 14, 
+        "albumId": "eab6225b-cd07-44d2-a49e-5b286df885e9", 
+        "date": "1998", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Everybody Dance / Dance Dance Dance", 
+        "artist": "Chic", 
+        "price": 15, 
+        "albumId": "ed1a95b2-5b45-498b-9749-50852fc2f2ba", 
+        "date": "1977", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Dance, Devolution", 
+        "artist": "Never Heard of Zeppelin", 
+        "price": 13, 
+        "albumId": "94b98e80-c00a-43cf-b7c5-b8a98d779faf", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance the Dance Electric", 
+        "artist": "Shocking Pinks", 
+        "price": 15, 
+        "albumId": "7dacf659-8c94-4495-897e-f4cd5bf362cc", 
+        "date": "2004-07-16", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Not Dance", 
+        "artist": "Cajuan", 
+        "price": 10, 
+        "albumId": "0f8e91d5-4532-4cad-8e3e-1e7fab966c20", 
+        "date": "2006", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Boy Dance", 
+        "artist": "Alexander Robotnick", 
+        "price": 15, 
+        "albumId": "8a75e6f2-3a8a-46be-bee2-bc2eb64ee6bf", 
+        "date": "2003", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Dance Revolution Extreme", 
+        "artist": "Various Artists", 
+        "price": 13, 
+        "albumId": "3759d191-21b7-4ec5-a7e9-2588db4e4504", 
+        "date": "2003-03-26", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Lady Dance", 
+        "artist": "Crown Heights Affair", 
+        "price": 12, 
+        "albumId": "87ead931-e55c-44f2-909b-4a8011876205", 
+        "date": "1979", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Dance Revolution 2000", 
+        "artist": "Various Artists", 
+        "price": 10, 
+        "albumId": "f5104cd9-5a52-48f7-bd12-3d691e1ee3eb", 
+        "date": "2000", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance It, Dance All", 
+        "artist": "The Easton Ellises", 
+        "price": 15, 
+        "albumId": "53fc8dc1-fbaa-4fe0-aaed-33133fb19f6d", 
+        "date": "2012-08-23", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance It, Dance All", 
+        "artist": "The Easton Ellises", 
+        "price": 13, 
+        "albumId": "8ad47c56-6236-4096-90f9-6bbf9a375c4b", 
+        "date": "2013-01-13", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Dance and Rotate", 
+        "artist": "Mainekk", 
+        "price": 15, 
+        "albumId": "5bc97656-2e05-45de-a9ea-615285686e43", 
+        "date": "2010", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Girl, Dance", 
+        "artist": "Cinerama", 
+        "price": 15, 
+        "albumId": "91e2d96d-61c5-4986-ba82-25ea1b4e3fb6", 
+        "date": "1998", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance You Fool Dance", 
+        "artist": "Marcia Hines", 
+        "price": 15, 
+        "albumId": "a9105573-7b6a-42dd-b759-d7147583a999", 
+        "date": "1979-08", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance the Last Dance", 
+        "artist": "West Virginian Railroad", 
+        "price": 14, 
+        "albumId": "4bc6c0b8-8950-4a31-99d3-323480646397", 
+        "date": "1993", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Gavin Dance", 
+        "artist": "Dance Gavin Dance", 
+        "price": 13, 
+        "albumId": "d3eab0f0-0f87-40bd-877e-cedd895fb9c8", 
+        "date": "2008-08-19", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Dance Baby", 
+        "artist": "Beangrowers", 
+        "price": 14, 
+        "albumId": "e1479a86-2b9e-41ac-8d20-dd16517662ac", 
+        "date": "2005", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Disco Dance", 
+        "artist": "Various Artists", 
+        "price": 12, 
+        "albumId": "efc0e032-c3c5-45ac-9333-979164ad30a9", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Baby, Dance!", 
+        "artist": "Fisher-Price", 
+        "price": 14, 
+        "albumId": "e63f7395-e6ad-4b5c-bc3b-638baaacd808", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance, Baby, Dance!", 
+        "artist": "Fisher-Price", 
+        "price": 12, 
+        "albumId": "6084333c-c72f-4337-a668-2a0c06352bfc", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance India Dance", 
+        "artist": "Various Artists", 
+        "price": 11, 
+        "albumId": "caf009e1-e652-4157-ae0a-1201002b46db", 
+        "date": "1990-01", 
+        "coverLink": "lalalala"
+    }, 
+    {
+        "album": "Dance Dance Evolution", 
+        "artist": "Dungeon Elite [**]", 
+        "price": 12, 
+        "albumId": "54dbb35a-6651-4a60-a333-86f7a100629d", 
+        "date": "2010-02-21", 
         "coverLink": "lalalala"
     }
 ]
