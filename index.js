@@ -28,7 +28,6 @@ app.get(SERVICE_CHECK_HTTP, (req, res) => res.send({ uptime: process.uptime() })
 app.get(SERVICE_ENDPOINTS, endpoints());
 
 let cds = require('./cdDataBase.json')
-// http://musicbrainz.org/ws/2/release/2af14d71-4333-494a-a981-7701897e3f1c?inc=artists+recordings&fmt=json
 
 app.get('/cds', (req, res) => {
 
@@ -42,7 +41,7 @@ app.get('/cd/:id', (req, res) => {
     cds
     .filter((cd) => {return cd.albumId === id});
 
-  if (result.length === 0) {
+  if (result.length !== 1) {
     res.send([]);  
   } else {
     res.send(result[0]);  
