@@ -27,38 +27,27 @@ app.get(SERVICE_CHECK_HTTP, (req, res) => res.send({ uptime: process.uptime() })
 // Add metadata endpoint
 app.get(SERVICE_ENDPOINTS, endpoints());
 
-let cd = {
-  artist : "The Offspring",
-  artistId : "23a03e33-a603-404e-bcbf-2c00159d7067",
-  album : "The Offspring",
-  albumId : "540764b9-ea52-413a-8b7e-ac91bd0bbfd8",
-  date : "1989-03",
-  price : 15.00,
-  coverLink : "https://media.giphy.com/media/xTk9ZUb96JJueUfmCI/giphy.gif"
-}
-
-let cds = [ cd, cd];
+let cds = require('./cdDataBase.json')
 // http://musicbrainz.org/ws/2/release/2af14d71-4333-494a-a981-7701897e3f1c?inc=artists+recordings&fmt=json
 
 app.get('/cds', (req, res) => {
-  let title = req.query.title;
 
   res.send(cds);
-
-  // if (title !== undefined){
-
-  //    res.send( {test : title});
-  // } else {
-  //   res.send([]);
-  // }
 });
 
 app.get('/cd/:id', (req, res) => {
-  let id = req.query.id;
+  let id = req.params.id;
 
-  res.send(cd);  
+  let result =
+    cds
+    .filter((cd) => {return cd.albumId === id});
+
+  if (result.length === 0) {
+    res.send([]);  
+  } else {
+    res.send(result[0]);  
+  }
 });
-
 // Start the server
 const server = app.listen(PORT, () => console.log(`Service listening on port ${PORT} ...`));
 
