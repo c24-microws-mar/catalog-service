@@ -29,6 +29,14 @@ app.get(SERVICE_ENDPOINTS, endpoints());
 
 let cds = require('./cdDataBase.json')
 
+app.get('/artist/:artistId/cds', (req, res) => {
+  let artistId = req.params.artistId;
+
+  let result = cds.filter((cd) => { return cd.artistId === artistId });
+
+  res.send(result);
+});
+
 app.get('/cds', (req, res) => {
 
   res.send(cds);
@@ -44,7 +52,7 @@ app.get('/cd/:id', (req, res) => {
   if (!result) {
     res.send([]);  
   } else {
-    res.send(result);  
+    res.send(result);
   }
 });
 // Start the server
